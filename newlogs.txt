@@ -1,0 +1,698 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-20T10:49:22.721Z"}
+{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic \"","timestamp":"2025-02-20T10:50:19.294Z"}
+{"level":"info","message":"Found 47 articles.","timestamp":"2025-02-20T10:50:21.989Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Disease mechanisms and drug development.","timestamp":"2025-02-20T10:50:21.990Z"}
+{"level":"info","message":"Fetching article: Pharmacotherapy and adjunctive treatment for idiopathic pulmonary fibrosis (IPF).","timestamp":"2025-02-20T10:50:21.993Z"}
+{"level":"info","message":"Fetching article: Management of Progressive Fibrosing Interstitial Lung Diseases (PF-ILD).","timestamp":"2025-02-20T10:50:21.995Z"}
+{"level":"info","message":"Fetching article: Learnings from clinical trials in patients with connective tissue disease-associated interstitial lung disease.","timestamp":"2025-02-20T10:50:21.997Z"}
+{"level":"info","message":"Fetching article: Safety and tolerability of combination treatment with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis: a systematic review and meta-analysis.","timestamp":"2025-02-20T10:50:21.999Z"}
+{"level":"info","message":"Fetching article: Efficacy and safety of combination therapy with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.001Z"}
+{"level":"info","message":"Fetching article: Bexotegrast in Patients with Idiopathic Pulmonary Fibrosis: The INTEGRIS-IPF Clinical Trial.","timestamp":"2025-02-20T10:50:22.003Z"}
+{"level":"info","message":"Fetching article: Ziritaxestat, a Novel Autotaxin Inhibitor, and Lung Function in Idiopathic Pulmonary Fibrosis: The ISABELA 1 and 2 Randomized Clinical Trials.","timestamp":"2025-02-20T10:50:22.005Z"}
+{"level":"info","message":"Fetching article: Safety and tolerability of pirfenidone in asbestosis: a prospective multicenter study.","timestamp":"2025-02-20T10:50:22.007Z"}
+{"level":"info","message":"Fetching article: Efficacy and safety of pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.009Z"}
+{"level":"info","message":"Fetching article: Updated Evaluation of the Safety, Efficacy and Tolerability of Pirfenidone in the Treatment of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:50:22.011Z"}
+{"level":"info","message":"Fetching article: Differences in tolerability of pirfenidone between elderly and younger patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.015Z"}
+{"level":"info","message":"Fetching article: Efficacy, safety, and tolerability of combined pirfenidone and N-acetylcysteine therapy: a systematic review and meta-analysis.","timestamp":"2025-02-20T10:50:22.017Z"}
+{"level":"info","message":"Fetching article: Nintedanib and pirfenidone for idiopathic pulmonary fibrosis in King Abdulaziz Medical City, Riyadh: Real-life data.","timestamp":"2025-02-20T10:50:22.019Z"}
+{"level":"info","message":"Fetching article: Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.020Z"}
+{"level":"info","message":"Fetching article: Real World Experiences: Pirfenidone and Nintedanib are Effective and Well Tolerated Treatments for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:50:22.022Z"}
+{"level":"info","message":"Fetching article: A real-world study of the dosing and tolerability of pirfenidone and its effect on survival in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.023Z"}
+{"level":"info","message":"Fetching article: South-West of England's Experience of the Safety and Tolerability Pirfenidone and Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis (IPF).","timestamp":"2025-02-20T10:50:22.025Z"}
+{"level":"info","message":"Fetching article: Real-world experiences: Efficacy and tolerability of pirfenidone in clinical practice.","timestamp":"2025-02-20T10:50:22.026Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Addressing the current and future therapeutic advances along with the role of Sotatercept in the management of pulmonary hypertension.","timestamp":"2025-02-20T10:50:22.028Z"}
+{"level":"info","message":"Fetching article: Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.030Z"}
+{"level":"info","message":"Fetching article: The role of pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.031Z"}
+{"level":"info","message":"Fetching article: Safety and Efficacy of Pirfenidone in Advanced Idiopathic Pulmonary Fibrosis: A Nationwide Post-Marketing Surveillance Study in Korean Patients.","timestamp":"2025-02-20T10:50:22.032Z"}
+{"level":"info","message":"Fetching article: Analysis of the safety and efficacy of different plasma concentrations of pirfenidone in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.034Z"}
+{"level":"info","message":"Fetching article: Comparison of the safety profiles for pirfenidone and nintedanib: a disproportionality analysis of the US food and drug administration adverse event reporting system.","timestamp":"2025-02-20T10:50:22.035Z"}
+{"level":"info","message":"Fetching article: Evaluation of efficacy and safety of pirfenidone 200 mg tablets in patients with idiopathic pulmonary fibrosis in a real-life setting.","timestamp":"2025-02-20T10:50:22.036Z"}
+{"level":"info","message":"Fetching article: GLPG1205 for idiopathic pulmonary fibrosis: a phase 2 randomised placebo-controlled trial.","timestamp":"2025-02-20T10:50:22.037Z"}
+{"level":"info","message":"Fetching article: Real world experience on the effectiveness and safety of pirfenidone in patients with idiopathic pulmonary fibrosis in Taiwan.","timestamp":"2025-02-20T10:50:22.039Z"}
+{"level":"info","message":"Fetching article: Inhibitor of PD-1/PD-L1: a new approach may be beneficial for the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.040Z"}
+{"level":"info","message":"Fetching article: Drug therapies for treatment of idiopathic pulmonary fibrosis: a systematic review, Bayesian network meta-analysis, and cost-effectiveness analysis.","timestamp":"2025-02-20T10:50:22.042Z"}
+{"level":"info","message":"Fetching article: Therapeutic Applications of Mesenchymal Stem Cells in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:50:22.043Z"}
+{"level":"info","message":"Fetching article: A Randomized, Double-Blinded, Placebo-Controlled, Dose-Escalation Phase 1 Study of Aerosolized Pirfenidone Delivered via the PARI Investigational eFlow Nebulizer in Volunteers and Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:50:22.044Z"}
+{"level":"info","message":"Fetching article: Antacid Therapy and Disease Progression in Patients with Idiopathic Pulmonary Fibrosis Who Received Pirfenidone.","timestamp":"2025-02-20T10:50:22.046Z"}
+{"level":"info","message":"Fetching article: Pharmacological management of progressive-fibrosing interstitial lung diseases: a review of the current evidence.","timestamp":"2025-02-20T10:50:22.047Z"}
+{"level":"info","message":"Fetching article: Efficacy and Safety of Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis: An Update.","timestamp":"2025-02-20T10:50:22.048Z"}
+{"level":"info","message":"Fetching article: Changing the idiopathic pulmonary fibrosis treatment approach and improving patient outcomes.","timestamp":"2025-02-20T10:50:22.050Z"}
+{"level":"info","message":"Fetching article: Pirfenidone in idiopathic pulmonary fibrosis: expert panel discussion on the management of drug-related adverse events.","timestamp":"2025-02-20T10:50:22.052Z"}
+{"level":"info","message":"Fetching article: Treatment of progressive fibrosing interstitial lung diseases: a milestone in the management of interstitial lung diseases.","timestamp":"2025-02-20T10:50:22.053Z"}
+{"level":"info","message":"Fetching article: Antifibrotic therapy for idiopathic pulmonary fibrosis: time to treat.","timestamp":"2025-02-20T10:50:22.054Z"}
+{"level":"info","message":"Fetching article: Phase 2 trial to assess lebrikizumab in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.056Z"}
+{"level":"info","message":"Fetching article: Nintedanib: evidence for its therapeutic potential in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.057Z"}
+{"level":"info","message":"Fetching article: Emerging potential treatments: new hope for idiopathic pulmonary fibrosis patients?","timestamp":"2025-02-20T10:50:22.058Z"}
+{"level":"info","message":"Fetching article: Long-Term Safety of Antifibrotic Drugs in IPF: A Real-World Experience.","timestamp":"2025-02-20T10:50:22.060Z"}
+{"level":"info","message":"Fetching article: Negative impact of anorexia and weight loss during prior pirfenidone administration on subsequent nintedanib treatment in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:50:22.061Z"}
+{"level":"info","message":"Fetching article: Pirfenidone as a Cornerstone in the Management of Fibrotic Interstitial Lung Diseases and Its Emerging Applications: A Comprehensive Review.","timestamp":"2025-02-20T10:50:22.062Z"}
+{"level":"info","message":"Fetching article: Timing impact on the initiation of pirfenidone therapy on idiopathic pulmonary fibrosis disease progression.","timestamp":"2025-02-20T10:50:22.064Z"}
+{"level":"info","message":"Fetching article: Combination of losartan with pirfenidone: a protective anti-fibrotic against pulmonary fibrosis induced by bleomycin in rats.","timestamp":"2025-02-20T10:50:22.065Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC6783717, {\"_\":\"identifier 'PMC6783717' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-20T10:50:22.401Z"}
+{"level":"info","message":"Error processing article PMC6783717: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-20T10:50:22.401Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC8142468, {\"_\":\"identifier 'PMC8142468' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-20T10:50:22.404Z"}
+{"level":"info","message":"Error processing article PMC8142468: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-20T10:50:22.405Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2f/2e/PMC10713318.tar.gz","timestamp":"2025-02-20T10:50:22.416Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/7c/PMC10329300.tar.gz","timestamp":"2025-02-20T10:50:22.425Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/8d/PMC10773730.tar.gz","timestamp":"2025-02-20T10:50:22.429Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3e/5d/PMC8548364.tar.gz","timestamp":"2025-02-20T10:50:22.431Z"}
+{"level":"info","message":"Extracting text from PDF: PMC8548364/fmed-08-743977.pdf","timestamp":"2025-02-20T10:50:23.756Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10329300/13075_2023_Article_3090.pdf","timestamp":"2025-02-20T10:50:24.234Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10713318/jtd-15-11-5913-prf.pdf","timestamp":"2025-02-20T10:50:24.350Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10773730/fphar-14-1301923.pdf","timestamp":"2025-02-20T10:50:24.504Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/81/PMC11351797.tar.gz","timestamp":"2025-02-20T10:50:28.145Z"}
+{"level":"info","message":"Extracting text from PDF: PMC11351797/rccm.202403-0636OC.pdf","timestamp":"2025-02-20T10:50:29.371Z"}
+{"level":"info","message":"Error processing article PMC11018867: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.442Z"}
+{"level":"info","message":"Error processing article PMC11438636: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.443Z"}
+{"level":"info","message":"Error processing article PMC11524648: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.444Z"}
+{"level":"info","message":"Error processing article PMC6458823: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.444Z"}
+{"level":"info","message":"Error processing article PMC9775369: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.445Z"}
+{"level":"info","message":"Error processing article PMC4555978: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.445Z"}
+{"level":"info","message":"Error processing article PMC9584115: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.446Z"}
+{"level":"info","message":"Error processing article PMC7859504: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.446Z"}
+{"level":"info","message":"Error processing article PMC6731623: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.447Z"}
+{"level":"info","message":"Error processing article PMC9488849: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.447Z"}
+{"level":"info","message":"Error processing article PMC9487299: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.448Z"}
+{"level":"info","message":"Error processing article PMC4003341: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.448Z"}
+{"level":"info","message":"Error processing article PMC5833905: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.449Z"}
+{"level":"info","message":"Error processing article PMC9488647: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.449Z"}
+{"level":"info","message":"Error processing article PMC5452370: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.452Z"}
+{"level":"info","message":"Error processing article PMC7041323: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.453Z"}
+{"level":"info","message":"Error processing article PMC7985078: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.453Z"}
+{"level":"info","message":"Error processing article PMC10804569: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.454Z"}
+{"level":"info","message":"Error processing article PMC10331814: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.454Z"}
+{"level":"info","message":"Error processing article PMC10642852: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.455Z"}
+{"level":"info","message":"Error processing article PMC9978158: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.455Z"}
+{"level":"info","message":"Error processing article PMC10734858: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.455Z"}
+{"level":"info","message":"Error processing article PMC9744780: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.456Z"}
+{"level":"info","message":"Error processing article PMC11163030: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.456Z"}
+{"level":"info","message":"Error processing article PMC7467484: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.457Z"}
+{"level":"info","message":"Error processing article PMC9487763: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.457Z"}
+{"level":"info","message":"Error processing article PMC3643400: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.458Z"}
+{"level":"info","message":"Error processing article PMC6992179: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.458Z"}
+{"level":"info","message":"Error processing article PMC10632947: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.458Z"}
+{"level":"info","message":"Error processing article PMC7569556: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.459Z"}
+{"level":"info","message":"Error processing article PMC6304353: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.459Z"}
+{"level":"info","message":"Error processing article PMC11175405: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.460Z"}
+{"level":"info","message":"Error processing article PMC5039481: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.462Z"}
+{"level":"info","message":"Error processing article PMC10034822: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.462Z"}
+{"level":"info","message":"Error processing article PMC6630358: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.463Z"}
+{"level":"info","message":"Error processing article PMC7204217: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.463Z"}
+{"level":"info","message":"Error processing article PMC7213901: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.463Z"}
+{"level":"info","message":"Error processing article PMC3968083: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.464Z"}
+{"level":"info","message":"Error processing article PMC9148498: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.464Z"}
+{"level":"info","message":"Error processing article PMC10170340: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T10:52:32.465Z"}
+{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-20T10:52:32.465Z"}
+{"level":"info","message":"Started document Embedding","timestamp":"2025-02-20T10:52:32.465Z"}
+{"level":"info","message":"Created chat Successfully","timestamp":"2025-02-20T10:52:35.614Z"}
+{"level":"info","message":"Searching PubMed for: \"pirfenidone idiopathic pulmonary fibrosis real-world \"","timestamp":"2025-02-20T10:59:19.409Z"}
+{"level":"info","message":"Found 69 articles.","timestamp":"2025-02-20T10:59:21.729Z"}
+{"level":"info","message":"Fetching article: Pirfenidone safety and adverse event management in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.730Z"}
+{"level":"info","message":"Fetching article: Progressive fibrosing interstitial lung disease: a clinical cohort (the PROGRESS study).","timestamp":"2025-02-20T10:59:21.732Z"}
+{"level":"info","message":"Fetching article: A Real-World Prognosis in Idiopathic Pulmonary Fibrosis: A Special Reference to the Role of Antifibrotic Agents for the Elderly.","timestamp":"2025-02-20T10:59:21.733Z"}
+{"level":"info","message":"Fetching article: Efficacy and safety of combination therapy with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.735Z"}
+{"level":"info","message":"Fetching article: Real World Experiences: Pirfenidone and Nintedanib are Effective and Well Tolerated Treatments for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:59:21.736Z"}
+{"level":"info","message":"Fetching article: Nintedanib in the management of idiopathic pulmonary fibrosis: clinical trial evidence and real-world experience.","timestamp":"2025-02-20T10:59:21.737Z"}
+{"level":"info","message":"Fetching article: Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.738Z"}
+{"level":"info","message":"Fetching article: Longitudinal \"Real-World\" Outcomes of Pirfenidone in Idiopathic Pulmonary Fibrosis in Greece.","timestamp":"2025-02-20T10:59:21.739Z"}
+{"level":"info","message":"Fetching article: Antifibrotic treatment adherence, efficacy and outcomes for patients with idiopathic pulmonary fibrosis in Spain: a real-world evidence study.","timestamp":"2025-02-20T10:59:21.741Z"}
+{"level":"info","message":"Fetching article: Real-World Experience with Nintedanib in Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:59:21.742Z"}
+{"level":"info","message":"Fetching article: Real world experience on the effectiveness and safety of pirfenidone in patients with idiopathic pulmonary fibrosis in Taiwan.","timestamp":"2025-02-20T10:59:21.743Z"}
+{"level":"info","message":"Fetching article: Antifibrotics and mortality in idiopathic pulmonary fibrosis: external validity and avoidance of immortal time bias.","timestamp":"2025-02-20T10:59:21.744Z"}
+{"level":"info","message":"Fetching article: Updated Evaluation of the Safety, Efficacy and Tolerability of Pirfenidone in the Treatment of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:59:21.745Z"}
+{"level":"info","message":"Fetching article: Efficacy of lower dose pirfenidone for idiopathic pulmonary fibrosis in real practice: a retrospective cohort study.","timestamp":"2025-02-20T10:59:21.747Z"}
+{"level":"info","message":"Fetching article: Pirfenidone in Idiopathic Pulmonary Fibrosis: Real-World Observation on Efficacy and Safety, Focus on Patients Undergoing Antithrombotic and Anticoagulant.","timestamp":"2025-02-20T10:59:21.748Z"}
+{"level":"info","message":"Fetching article: Real-world retrospective observational study exploring the effectiveness and safety of antifibrotics in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.749Z"}
+{"level":"info","message":"Fetching article: Real-World Clinical Efficacy of Antifibrotic Agents for Idiopathic Pulmonary Fibrosis: A Single-Center Retrospective Study in Japan.","timestamp":"2025-02-20T10:59:21.750Z"}
+{"level":"info","message":"Fetching article: [object Object]","timestamp":"2025-02-20T10:59:21.752Z"}
+{"level":"info","message":"Fetching article: Real-World Study Analysing Progression and Survival of Patients with Idiopathic Pulmonary Fibrosis with Preserved Lung Function on Antifibrotic Treatment.","timestamp":"2025-02-20T10:59:21.753Z"}
+{"level":"info","message":"Fetching article: Safety and Efficacy of Pirfenidone in Advanced Idiopathic Pulmonary Fibrosis: A Nationwide Post-Marketing Surveillance Study in Korean Patients.","timestamp":"2025-02-20T10:59:21.754Z"}
+{"level":"info","message":"Fetching article: Overall drug treatment of idiopathic pulmonary fibrosis patients from national registries - a real-world study from Finland.","timestamp":"2025-02-20T10:59:21.755Z"}
+{"level":"info","message":"Fetching article: Factors associated with dose reduction of pirfenidone in patients with idiopathic pulmonary fibrosis: A study based on real-world clinical data.","timestamp":"2025-02-20T10:59:21.757Z"}
+{"level":"info","message":"Fetching article: Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.758Z"}
+{"level":"info","message":"Fetching article: A real-world study of the dosing and tolerability of pirfenidone and its effect on survival in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.760Z"}
+{"level":"info","message":"Fetching article: Real world experience of response to pirfenidone in patients with idiopathic pulmonary fibrosis: a two centre retrospective study.","timestamp":"2025-02-20T10:59:21.761Z"}
+{"level":"info","message":"Fetching article: Analysis of real-world data and a mouse model indicates that pirfenidone causes pellagra.","timestamp":"2025-02-20T10:59:21.762Z"}
+{"level":"info","message":"Fetching article: Effects of low-dose pirfenidone on survival and lung function decline in patients with idiopathic pulmonary fibrosis (IPF): Results from a real-world study.","timestamp":"2025-02-20T10:59:21.764Z"}
+{"level":"info","message":"Fetching article: Real-world experiences: Efficacy and tolerability of pirfenidone in clinical practice.","timestamp":"2025-02-20T10:59:21.765Z"}
+{"level":"info","message":"Fetching article: Disparities in Antifibrotic Medication Utilization Among Veterans With Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:59:21.766Z"}
+{"level":"info","message":"Fetching article: Assessing the Effectiveness of Pirfenidone in Idiopathic Pulmonary Fibrosis: Long-Term, Real-World Data from European IPF Registry (eurIPFreg).","timestamp":"2025-02-20T10:59:21.768Z"}
+{"level":"info","message":"Fetching article: Corrigendum: Longitudinal \"Real-World\" Outcomes of Pirfenidone in Idiopathic Pulmonary Fibrosis in Greece.","timestamp":"2025-02-20T10:59:21.769Z"}
+{"level":"info","message":"Fetching article: Efficacy of low dose pirfenidone in idiopathic pulmonary fibrosis: real world experience from a tertiary university hospital.","timestamp":"2025-02-20T10:59:21.770Z"}
+{"level":"info","message":"Fetching article: Clinical course of mild-to-moderate idiopathic pulmonary fibrosis during therapy with pirfenidone: Results of the non-interventional study AERplus.","timestamp":"2025-02-20T10:59:21.772Z"}
+{"level":"info","message":"Fetching article: Real-World Experience in the Clinical Use of Pirfenidone in Patients with Idiopathic Pulmonary Fibrosis in Taiwan: A Post-Marketing Surveillance Study.","timestamp":"2025-02-20T10:59:21.773Z"}
+{"level":"info","message":"Fetching article: South-West of England's Experience of the Safety and Tolerability Pirfenidone and Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis (IPF).","timestamp":"2025-02-20T10:59:21.775Z"}
+{"level":"info","message":"Fetching article: Real-World Practice Patterns for Prevention and Management of Potential Adverse Events with Pirfenidone in Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:59:21.776Z"}
+{"level":"info","message":"Fetching article: Longitudinal serological assessment of type VI collagen turnover is related to progression in a real-world cohort of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.778Z"}
+{"level":"info","message":"Fetching article: Efficacy of early antifibrotic treatment for idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.779Z"}
+{"level":"info","message":"Fetching article: Anticoagulant Use and Bleeding Risk in Central European Patients with Idiopathic Pulmonary Fibrosis (IPF) Treated with Antifibrotic Therapy: Real-World Data from EMPIRE.","timestamp":"2025-02-20T10:59:21.781Z"}
+{"level":"info","message":"Fetching article: Comparative outcomes in patients receiving pirfenidone or nintedanib for idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.783Z"}
+{"level":"info","message":"Fetching article: Real-world therapeutic performance of pirfenidone for connective tissue disease-associated interstitial lung diseases.","timestamp":"2025-02-20T10:59:21.785Z"}
+{"level":"info","message":"Fetching article: Longitudinal clinical outcomes in a real-world population of patients with idiopathic pulmonary fibrosis: the PROOF registry.","timestamp":"2025-02-20T10:59:21.786Z"}
+{"level":"info","message":"Fetching article: Baseline clinical characteristics, comorbidities and prescribed medication in a real-world population of patients with idiopathic pulmonary fibrosis: the PROOF registry.","timestamp":"2025-02-20T10:59:21.788Z"}
+{"level":"info","message":"Fetching article: Pirfenidone: an update on clinical trial data and insights from everyday practice.","timestamp":"2025-02-20T10:59:21.789Z"}
+{"level":"info","message":"Fetching article: Medication persistence rates and predictive factors for discontinuation of antifibrotic agents in patients with idiopathic pulmonary fibrosis: a real-world observational study.","timestamp":"2025-02-20T10:59:21.791Z"}
+{"level":"info","message":"Fetching article: A real-world study of antifibrotic drugs-related adverse events based on the United States food and drug administration adverse event reporting system and VigiAccess databases.","timestamp":"2025-02-20T10:59:21.793Z"}
+{"level":"info","message":"Fetching article: Expert consensus on the management of adverse events and prescribing practices associated with the treatment of patients taking pirfenidone for idiopathic pulmonary fibrosis: a Delphi consensus study.","timestamp":"2025-02-20T10:59:21.794Z"}
+{"level":"info","message":"Fetching article: Turnover of type I and III collagen predicts progression of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.796Z"}
+{"level":"info","message":"Fetching article: Comparison of the safety profiles for pirfenidone and nintedanib: a disproportionality analysis of the US food and drug administration adverse event reporting system.","timestamp":"2025-02-20T10:59:21.797Z"}
+{"level":"info","message":"Fetching article: Effect of sildenafil added to antifibrotic treatment in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.804Z"}
+{"level":"info","message":"Fetching article: Antifibrotic therapies reduce mortality and hospitalization among Medicare beneficiaries with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.806Z"}
+{"level":"info","message":"Fetching article: Understanding Patterns of Adherence to Antifibrotic Treatment in Idiopathic Pulmonary Fibrosis: Insights from an Italian Prospective Cohort Study.","timestamp":"2025-02-20T10:59:21.808Z"}
+{"level":"info","message":"Fetching article: NICEFIT-A Prospective, Non-Interventional, and Multicentric Study for the Management of Idiopathic Pulmonary Fibrosis with Antifibrotic Therapy in Taiwan.","timestamp":"2025-02-20T10:59:21.810Z"}
+{"level":"info","message":"Fetching article: Physician characteristics associated with treatment initiation patterns in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T10:59:21.812Z"}
+{"level":"info","message":"Fetching article: Long-Term Safety of Antifibrotic Drugs in IPF: A Real-World Experience.","timestamp":"2025-02-20T10:59:21.813Z"}
+{"level":"info","message":"Fetching article: Therapeutic decisions in a cohort of patients with idiopathic pulmonary fibrosis: a multicenter, prospective survey from Poland.","timestamp":"2025-02-20T10:59:21.815Z"}
+{"level":"info","message":"Fetching article: The impact of antifibrotic use on long-term clinical outcomes in the pulmonary fibrosis foundation registry.","timestamp":"2025-02-20T10:59:21.827Z"}
+{"level":"info","message":"Fetching article: Perioperative Anti-Fibrotic Treatment Prevents Acute Exacerbation of Idiopathic Pulmonary Fibrosis After Lung Cancer Surgery.","timestamp":"2025-02-20T10:59:21.829Z"}
+{"level":"info","message":"Fetching article: Choice of Methodology Impacts Outcome in Indirect Comparisons of Drugs for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T10:59:21.830Z"}
+{"level":"info","message":"Fetching article: Qualitative European survey of patients with idiopathic pulmonary fibrosis: patients' perspectives of the disease and treatment.","timestamp":"2025-02-20T10:59:21.833Z"}
+{"level":"info","message":"Fetching article: A multicentre retrospective observational study on Polish experience of pirfenidone therapy in patients with idiopathic pulmonary fibrosis: the PolExPIR study.","timestamp":"2025-02-20T10:59:21.843Z"}
+{"level":"info","message":"Fetching article: \"Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis.\" Vincent Cottin and Toby Maher. Eur Respir Rev 2015; 24: 58-64.","timestamp":"2025-02-20T10:59:21.844Z"}
+{"level":"info","message":"Fetching article: Safety, effectiveness, and usefulness of higher-dose tablets of generic pirfenidone in patients with IPF: a nationwide observational study in South Korea.","timestamp":"2025-02-20T10:59:21.846Z"}
+{"level":"info","message":"Fetching article: Effect of pirfenidone on lung function decline and survival: 5-yr experience from a real-life IPF cohort from the Czech EMPIRE registry.","timestamp":"2025-02-20T10:59:21.847Z"}
+{"level":"info","message":"Fetching article: Pirfenidone improves survival in IPF: results from a real-life study.","timestamp":"2025-02-20T10:59:21.849Z"}
+{"level":"info","message":"Fetching article: Long-term safety of pirfenidone: results of the prospective, observational PASSPORT study.","timestamp":"2025-02-20T10:59:21.857Z"}
+{"level":"info","message":"Fetching article: Early clinical experiences with nintedanib in three UK tertiary interstitial lung disease centres.","timestamp":"2025-02-20T10:59:21.859Z"}
+{"level":"info","message":"Fetching article: Clinical course of IPF in Italian patients during 12 months of observation: results from the FIBRONET observational study.","timestamp":"2025-02-20T10:59:21.860Z"}
+{"level":"info","message":"Fetching article: Possible value of antifibrotic drugs in patients with progressive fibrosing non-IPF interstitial lung diseases.","timestamp":"2025-02-20T10:59:21.862Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/47/84/PMC8411897.tar.gz","timestamp":"2025-02-20T10:59:22.304Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/dc/df/PMC9488585.tar.gz","timestamp":"2025-02-20T10:59:22.309Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/8d/PMC10773730.tar.gz","timestamp":"2025-02-20T10:59:22.312Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7e/e3/PMC10219256.tar.gz","timestamp":"2025-02-20T10:59:22.318Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a9/2e/PMC5039481.tar.gz","timestamp":"2025-02-20T10:59:22.323Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/97/f4/PMC6156214.tar.gz","timestamp":"2025-02-20T10:59:23.320Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10773730/fphar-14-1301923.pdf","timestamp":"2025-02-20T10:59:23.844Z"}
+{"level":"info","message":"Extracting text from PDF: PMC5039481/jcm-05-00078.pdf","timestamp":"2025-02-20T10:59:24.428Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10219256/jcm-12-03564.pdf","timestamp":"2025-02-20T10:59:24.819Z"}
+{"level":"info","message":"Extracting text from PDF: PMC6156214/10.1177_1753466618800618.pdf","timestamp":"2025-02-20T10:59:25.126Z"}
+{"level":"info","message":"Extracting text from PDF: PMC8411897/ERJ-02718-2020.pdf","timestamp":"2025-02-20T10:59:25.347Z"}
+{"level":"info","message":"Extracting text from PDF: PMC9488585/ERR-0057-2017_Wijsenbeek.pdf","timestamp":"2025-02-20T10:59:25.658Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9d/29/PMC11043774.tar.gz","timestamp":"2025-02-20T10:59:28.897Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/04/7a/PMC11293013.tar.gz","timestamp":"2025-02-20T10:59:28.902Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/01/c3/PMC9487763.tar.gz","timestamp":"2025-02-20T10:59:28.903Z"}
+{"level":"info","message":"Extracting text from PDF: PMC11043774/bmjresp-2023-001687.pdf","timestamp":"2025-02-20T10:59:29.915Z"}
+{"level":"info","message":"Extracting text from PDF: PMC11293013/12931_2024_Article_2922.pdf","timestamp":"2025-02-20T10:59:30.287Z"}
+{"level":"info","message":"Searching PubMed for: \"idiopathic pulmonary fibrosis \"","timestamp":"2025-02-20T11:00:27.744Z"}
+{"level":"info","message":"Error processing article PMC6852748: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.111Z"}
+{"level":"info","message":"Error processing article PMC5712559: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.112Z"}
+{"level":"info","message":"Error processing article PMC7903602: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.113Z"}
+{"level":"info","message":"Error processing article PMC5670096: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.113Z"}
+{"level":"info","message":"Error processing article PMC6194203: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.114Z"}
+{"level":"info","message":"Error processing article PMC6251092: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.114Z"}
+{"level":"info","message":"Error processing article PMC6341650: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.115Z"}
+{"level":"info","message":"Error processing article PMC11341391: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.115Z"}
+{"level":"info","message":"Error processing article PMC9487684: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.116Z"}
+{"level":"info","message":"Error processing article PMC7199354: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.116Z"}
+{"level":"info","message":"Error processing article PMC4712607: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.117Z"}
+{"level":"info","message":"Error processing article PMC11595336: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.117Z"}
+{"level":"info","message":"Error processing article PMC6723644: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.118Z"}
+{"level":"info","message":"Error processing article PMC11193272: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.118Z"}
+{"level":"info","message":"Error processing article PMC9425901: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.119Z"}
+{"level":"info","message":"Error processing article PMC9775369: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.119Z"}
+{"level":"info","message":"Error processing article PMC6764076: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.120Z"}
+{"level":"info","message":"Error processing article PMC9598748: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.120Z"}
+{"level":"info","message":"Error processing article PMC11084189: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.120Z"}
+{"level":"info","message":"Error processing article PMC10390936: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.121Z"}
+{"level":"info","message":"Error processing article PMC8426395: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.121Z"}
+{"level":"info","message":"Error processing article PMC11163030: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.123Z"}
+{"level":"info","message":"Error processing article PMC8281632: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.123Z"}
+{"level":"info","message":"Error processing article PMC7362639: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.124Z"}
+{"level":"info","message":"Error processing article PMC6719482: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.124Z"}
+{"level":"info","message":"Error processing article PMC10920264: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.125Z"}
+{"level":"info","message":"Error processing article PMC9487270: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.125Z"}
+{"level":"info","message":"Error processing article PMC6267319: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.126Z"}
+{"level":"info","message":"Error processing article PMC11544659: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.126Z"}
+{"level":"info","message":"Error processing article PMC6813978: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.128Z"}
+{"level":"info","message":"Error processing article PMC8272304: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.128Z"}
+{"level":"info","message":"Error processing article PMC8094468: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.129Z"}
+{"level":"info","message":"Error processing article PMC7497686: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.129Z"}
+{"level":"info","message":"Error processing article PMC6967051: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.130Z"}
+{"level":"info","message":"Error processing article PMC8609852: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.130Z"}
+{"level":"info","message":"Error processing article PMC6304353: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.131Z"}
+{"level":"info","message":"Error processing article PMC11504274: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.131Z"}
+{"level":"info","message":"Error processing article PMC11014748: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.132Z"}
+{"level":"info","message":"Error processing article PMC7719184: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.132Z"}
+{"level":"info","message":"Error processing article PMC10410245: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.132Z"}
+{"level":"info","message":"Error processing article PMC5787691: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.133Z"}
+{"level":"info","message":"Error processing article PMC7700641: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.133Z"}
+{"level":"info","message":"Error processing article PMC6992179: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.134Z"}
+{"level":"info","message":"Error processing article PMC9589320: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.134Z"}
+{"level":"info","message":"Error processing article PMC8699661: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.135Z"}
+{"level":"info","message":"Error processing article PMC7569563: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.135Z"}
+{"level":"info","message":"Error processing article PMC7569556: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.136Z"}
+{"level":"info","message":"Error processing article PMC11175405: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.136Z"}
+{"level":"info","message":"Error processing article PMC9897553: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.136Z"}
+{"level":"info","message":"Error processing article PMC10543307: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.137Z"}
+{"level":"info","message":"Error processing article PMC7467484: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.137Z"}
+{"level":"info","message":"Error processing article PMC7854391: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.138Z"}
+{"level":"info","message":"Error processing article PMC8442489: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.138Z"}
+{"level":"info","message":"Error processing article PMC10928060: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.139Z"}
+{"level":"info","message":"Error processing article PMC8006845: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.139Z"}
+{"level":"info","message":"Error processing article PMC11280355: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.140Z"}
+{"level":"info","message":"Error processing article PMC8925945: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.140Z"}
+{"level":"info","message":"Error processing article PMC7213901: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.140Z"}
+{"level":"info","message":"Error processing article PMC10642852: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.142Z"}
+{"level":"info","message":"Error processing article PMC5985741: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:01:33.143Z"}
+{"level":"info","message":"Error processing article PMC9487763: Error: connect ETIMEDOUT 130.14.250.11:443","timestamp":"2025-02-20T11:01:39.254Z"}
+{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-20T11:01:39.254Z"}
+{"level":"info","message":"Started document Embedding","timestamp":"2025-02-20T11:01:39.255Z"}
+{"level":"info","message":"Created chat Successfully","timestamp":"2025-02-20T11:01:42.049Z"}
+{"level":"info","message":"Error fetching PubMed data: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:02:38.646Z"}
+{"level":"info","message":"Searching PubMed for: \"idiopathic pulmonary fibrosis \"","timestamp":"2025-02-20T11:02:57.286Z"}
+{"level":"info","message":"Found 35 articles.","timestamp":"2025-02-20T11:04:04.554Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Disease mechanisms and drug development.","timestamp":"2025-02-20T11:04:04.554Z"}
+{"level":"info","message":"Fetching article: Current and Future Treatment Landscape for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:04:04.556Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: current diagnosis and treatment.","timestamp":"2025-02-20T11:04:04.557Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Epithelial-mesenchymal interactions and emerging therapeutic targets.","timestamp":"2025-02-20T11:04:04.558Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis beyond the lung: understanding disease mechanisms to improve diagnosis and management.","timestamp":"2025-02-20T11:04:04.559Z"}
+{"level":"info","message":"Fetching article: Precision medicine advances in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:04:04.561Z"}
+{"level":"info","message":"Fetching article: Identifying potential biomarkers of idiopathic pulmonary fibrosis through machine learning analysis.","timestamp":"2025-02-20T11:04:04.562Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: current challenges and future perspectives.","timestamp":"2025-02-20T11:04:04.563Z"}
+{"level":"info","message":"Fetching article: Fibrotic Idiopathic Interstitial Lung Disease: The Molecular and Cellular Key Players.","timestamp":"2025-02-20T11:04:04.564Z"}
+{"level":"info","message":"Fetching article: Serum Proteomics Identifies Biomarkers Associated With the Pathogenesis of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:04:04.565Z"}
+{"level":"info","message":"Fetching article: Identifying potential drug targets for idiopathic pulmonary fibrosis: a mendelian randomization study based on the druggable genes.","timestamp":"2025-02-20T11:04:04.566Z"}
+{"level":"info","message":"Fetching article: Single-Cell RNA Sequencing Provides New Insights into Therapeutic Roles of Thyroid Hormone in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:04:04.567Z"}
+{"level":"info","message":"Fetching article: Rethinking Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:04:04.568Z"}
+{"level":"info","message":"Fetching article: Beyond idiopathic pulmonary fibrosis: the world of progressive-fibrosing interstitial lung disease.","timestamp":"2025-02-20T11:04:04.570Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: present understanding and future options.","timestamp":"2025-02-20T11:04:04.571Z"}
+{"level":"info","message":"Fetching article: Imaging in idiopathic pulmonary fibrosis: diagnosis and mimics.","timestamp":"2025-02-20T11:04:04.572Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Addressing the current and future therapeutic advances along with the role of Sotatercept in the management of pulmonary hypertension.","timestamp":"2025-02-20T11:04:04.573Z"}
+{"level":"info","message":"Fetching article: Assessing the Burden and Prognostic Value of Cough in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:04:04.574Z"}
+{"level":"info","message":"Fetching article: Update on diagnosis and treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:04:04.575Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis and systemic sclerosis: pathogenic mechanisms and therapeutic interventions.","timestamp":"2025-02-20T11:04:04.576Z"}
+{"level":"info","message":"Fetching article: Molecular Biomarkers in Idiopathic Pulmonary Fibrosis: State of the Art and Future Directions.","timestamp":"2025-02-20T11:04:04.578Z"}
+{"level":"info","message":"Fetching article: The similarities and differences between pleuroparenchymal fibroelastosis and idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:04:04.579Z"}
+{"level":"info","message":"Fetching article: Registries for Idiopathic Pulmonary Fibrosis: When Is It Time to Go Global?","timestamp":"2025-02-20T11:04:04.580Z"}
+{"level":"info","message":"Fetching article: Time for a change: is idiopathic pulmonary fibrosis still idiopathic and only fibrotic?","timestamp":"2025-02-20T11:04:04.581Z"}
+{"level":"info","message":"Fetching article: Idiopathic Pulmonary Fibrosis: Review of Current Knowledge.","timestamp":"2025-02-20T11:04:04.582Z"}
+{"level":"info","message":"Fetching article: Anti-fibrotic therapy and lung transplant outcomes in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:04:04.584Z"}
+{"level":"info","message":"Fetching article: The causal relationship between physical activity, sedentary time and idiopathic pulmonary fibrosis risk: a Mendelian randomization study.","timestamp":"2025-02-20T11:04:04.585Z"}
+{"level":"info","message":"Fetching article: Genetics and animal models of familial pulmonary fibrosis.","timestamp":"2025-02-20T11:04:04.586Z"}
+{"level":"info","message":"Fetching article: Ubiquitination and deubiquitination emerge as players in idiopathic pulmonary fibrosis pathogenesis and treatment.","timestamp":"2025-02-20T11:04:04.587Z"}
+{"level":"info","message":"Fetching article: Senotherapeutics: Targeting senescence in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:04:04.588Z"}
+{"level":"info","message":"Fetching article: Comorbidities in idiopathic pulmonary fibrosis: an underestimated issue.","timestamp":"2025-02-20T11:04:04.589Z"}
+{"level":"info","message":"Fetching article: Guidelines or guidance for better idiopathic pulmonary fibrosis management?","timestamp":"2025-02-20T11:04:04.590Z"}
+{"level":"info","message":"Fetching article: Identification of PANoptosis-related genes for idiopathic pulmonary fibrosis by machine learning and molecular subtype analysis.","timestamp":"2025-02-20T11:04:04.591Z"}
+{"level":"info","message":"Fetching article: Best supportive care for idiopathic pulmonary fibrosis: current gaps and future directions.","timestamp":"2025-02-20T11:04:04.592Z"}
+{"level":"info","message":"Fetching article: Cardiovascular implications of idiopathic pulmonary fibrosis: A way forward together?","timestamp":"2025-02-20T11:04:04.594Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC6146058, {\"_\":\"identifier 'PMC6146058' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-20T11:04:04.862Z"}
+{"level":"info","message":"Error processing article PMC6146058: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-20T11:04:04.864Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/41/09/PMC10545744.tar.gz","timestamp":"2025-02-20T11:04:04.866Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ff/93/PMC10693523.tar.gz","timestamp":"2025-02-20T11:04:04.873Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC8142468, {\"_\":\"identifier 'PMC8142468' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-20T11:04:04.875Z"}
+{"level":"info","message":"Error processing article PMC8142468: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-20T11:04:04.875Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d0/bd/PMC10578906.tar.gz","timestamp":"2025-02-20T11:04:04.876Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/44/PMC8052779.tar.gz","timestamp":"2025-02-20T11:04:04.882Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10578906/1806-3756-jbpneu-49-04-e20230085.pdf","timestamp":"2025-02-20T11:04:06.233Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10693523/40265_2023_Article_1950.pdf","timestamp":"2025-02-20T11:04:06.642Z"}
+{"level":"info","message":"Extracting text from PDF: PMC8052779/12931_2021_Article_1711.pdf","timestamp":"2025-02-20T11:04:07.657Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10545744/41598_2023_43834_MOESM6_ESM.pdf","timestamp":"2025-02-20T11:04:08.105Z"}
+{"level":"info","message":"Error processing article PMC7542546: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.734Z"}
+{"level":"info","message":"Error processing article PMC9488950: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.735Z"}
+{"level":"info","message":"Error processing article PMC11473738: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.736Z"}
+{"level":"info","message":"Error processing article PMC4748484: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.737Z"}
+{"level":"info","message":"Error processing article PMC9488913: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.737Z"}
+{"level":"info","message":"Error processing article PMC7913053: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.738Z"}
+{"level":"info","message":"Error processing article PMC6012502: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.739Z"}
+{"level":"info","message":"Error processing article PMC8633634: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.739Z"}
+{"level":"info","message":"Error processing article PMC10658800: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.740Z"}
+{"level":"info","message":"Error processing article PMC10126649: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.740Z"}
+{"level":"info","message":"Error processing article PMC11414582: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.741Z"}
+{"level":"info","message":"Error processing article PMC5903445: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.741Z"}
+{"level":"info","message":"Error processing article PMC7640729: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.742Z"}
+{"level":"info","message":"Error processing article PMC6685112: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.743Z"}
+{"level":"info","message":"Error processing article PMC8230407: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.744Z"}
+{"level":"info","message":"Error processing article PMC8212897: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.744Z"}
+{"level":"info","message":"Error processing article PMC4635093: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.745Z"}
+{"level":"info","message":"Error processing article PMC10502888: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.745Z"}
+{"level":"info","message":"Error processing article PMC10632947: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.745Z"}
+{"level":"info","message":"Error processing article PMC6384526: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.746Z"}
+{"level":"info","message":"Error processing article PMC9584113: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.746Z"}
+{"level":"info","message":"Error processing article PMC9489160: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.747Z"}
+{"level":"info","message":"Error processing article PMC9075032: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.747Z"}
+{"level":"info","message":"Error processing article PMC10557923: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.748Z"}
+{"level":"info","message":"Error processing article PMC11118997: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.748Z"}
+{"level":"info","message":"Error processing article PMC10113895: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.749Z"}
+{"level":"info","message":"Error processing article PMC8396471: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.750Z"}
+{"level":"info","message":"Error processing article PMC9487390: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.751Z"}
+{"level":"info","message":"Error processing article PMC10469771: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:06:15.751Z"}
+{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-20T11:06:15.751Z"}
+{"level":"info","message":"Started document Embedding","timestamp":"2025-02-20T11:06:15.751Z"}
+{"level":"info","message":"Created chat Successfully","timestamp":"2025-02-20T11:06:18.546Z"}
+{"level":"info","message":"Searching PubMed for: \"pirfenidone idiopathic pulmonary fibrosis real-world \"","timestamp":"2025-02-20T11:08:33.071Z"}
+{"level":"info","message":"Found 69 articles.","timestamp":"2025-02-20T11:08:35.412Z"}
+{"level":"info","message":"Fetching article: Pirfenidone safety and adverse event management in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.412Z"}
+{"level":"info","message":"Fetching article: Progressive fibrosing interstitial lung disease: a clinical cohort (the PROGRESS study).","timestamp":"2025-02-20T11:08:35.414Z"}
+{"level":"info","message":"Fetching article: A Real-World Prognosis in Idiopathic Pulmonary Fibrosis: A Special Reference to the Role of Antifibrotic Agents for the Elderly.","timestamp":"2025-02-20T11:08:35.415Z"}
+{"level":"info","message":"Fetching article: Efficacy and safety of combination therapy with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.416Z"}
+{"level":"info","message":"Fetching article: Real World Experiences: Pirfenidone and Nintedanib are Effective and Well Tolerated Treatments for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:08:35.417Z"}
+{"level":"info","message":"Fetching article: Nintedanib in the management of idiopathic pulmonary fibrosis: clinical trial evidence and real-world experience.","timestamp":"2025-02-20T11:08:35.419Z"}
+{"level":"info","message":"Fetching article: Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.420Z"}
+{"level":"info","message":"Fetching article: Longitudinal \"Real-World\" Outcomes of Pirfenidone in Idiopathic Pulmonary Fibrosis in Greece.","timestamp":"2025-02-20T11:08:35.421Z"}
+{"level":"info","message":"Fetching article: Antifibrotic treatment adherence, efficacy and outcomes for patients with idiopathic pulmonary fibrosis in Spain: a real-world evidence study.","timestamp":"2025-02-20T11:08:35.422Z"}
+{"level":"info","message":"Fetching article: Real-World Experience with Nintedanib in Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:08:35.423Z"}
+{"level":"info","message":"Fetching article: Real world experience on the effectiveness and safety of pirfenidone in patients with idiopathic pulmonary fibrosis in Taiwan.","timestamp":"2025-02-20T11:08:35.424Z"}
+{"level":"info","message":"Fetching article: Antifibrotics and mortality in idiopathic pulmonary fibrosis: external validity and avoidance of immortal time bias.","timestamp":"2025-02-20T11:08:35.426Z"}
+{"level":"info","message":"Fetching article: Updated Evaluation of the Safety, Efficacy and Tolerability of Pirfenidone in the Treatment of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:08:35.427Z"}
+{"level":"info","message":"Fetching article: Efficacy of lower dose pirfenidone for idiopathic pulmonary fibrosis in real practice: a retrospective cohort study.","timestamp":"2025-02-20T11:08:35.428Z"}
+{"level":"info","message":"Fetching article: Pirfenidone in Idiopathic Pulmonary Fibrosis: Real-World Observation on Efficacy and Safety, Focus on Patients Undergoing Antithrombotic and Anticoagulant.","timestamp":"2025-02-20T11:08:35.429Z"}
+{"level":"info","message":"Fetching article: Real-world retrospective observational study exploring the effectiveness and safety of antifibrotics in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.430Z"}
+{"level":"info","message":"Fetching article: Real-World Clinical Efficacy of Antifibrotic Agents for Idiopathic Pulmonary Fibrosis: A Single-Center Retrospective Study in Japan.","timestamp":"2025-02-20T11:08:35.431Z"}
+{"level":"info","message":"Fetching article: [object Object]","timestamp":"2025-02-20T11:08:35.432Z"}
+{"level":"info","message":"Fetching article: Real-World Study Analysing Progression and Survival of Patients with Idiopathic Pulmonary Fibrosis with Preserved Lung Function on Antifibrotic Treatment.","timestamp":"2025-02-20T11:08:35.434Z"}
+{"level":"info","message":"Fetching article: Safety and Efficacy of Pirfenidone in Advanced Idiopathic Pulmonary Fibrosis: A Nationwide Post-Marketing Surveillance Study in Korean Patients.","timestamp":"2025-02-20T11:08:35.435Z"}
+{"level":"info","message":"Fetching article: Overall drug treatment of idiopathic pulmonary fibrosis patients from national registries - a real-world study from Finland.","timestamp":"2025-02-20T11:08:35.436Z"}
+{"level":"info","message":"Fetching article: Factors associated with dose reduction of pirfenidone in patients with idiopathic pulmonary fibrosis: A study based on real-world clinical data.","timestamp":"2025-02-20T11:08:35.437Z"}
+{"level":"info","message":"Fetching article: Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.438Z"}
+{"level":"info","message":"Fetching article: A real-world study of the dosing and tolerability of pirfenidone and its effect on survival in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.439Z"}
+{"level":"info","message":"Fetching article: Real world experience of response to pirfenidone in patients with idiopathic pulmonary fibrosis: a two centre retrospective study.","timestamp":"2025-02-20T11:08:35.440Z"}
+{"level":"info","message":"Fetching article: Analysis of real-world data and a mouse model indicates that pirfenidone causes pellagra.","timestamp":"2025-02-20T11:08:35.442Z"}
+{"level":"info","message":"Fetching article: Effects of low-dose pirfenidone on survival and lung function decline in patients with idiopathic pulmonary fibrosis (IPF): Results from a real-world study.","timestamp":"2025-02-20T11:08:35.443Z"}
+{"level":"info","message":"Fetching article: Real-world experiences: Efficacy and tolerability of pirfenidone in clinical practice.","timestamp":"2025-02-20T11:08:35.444Z"}
+{"level":"info","message":"Fetching article: Disparities in Antifibrotic Medication Utilization Among Veterans With Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:08:35.445Z"}
+{"level":"info","message":"Fetching article: Assessing the Effectiveness of Pirfenidone in Idiopathic Pulmonary Fibrosis: Long-Term, Real-World Data from European IPF Registry (eurIPFreg).","timestamp":"2025-02-20T11:08:35.446Z"}
+{"level":"info","message":"Fetching article: Corrigendum: Longitudinal \"Real-World\" Outcomes of Pirfenidone in Idiopathic Pulmonary Fibrosis in Greece.","timestamp":"2025-02-20T11:08:35.447Z"}
+{"level":"info","message":"Fetching article: Efficacy of low dose pirfenidone in idiopathic pulmonary fibrosis: real world experience from a tertiary university hospital.","timestamp":"2025-02-20T11:08:35.448Z"}
+{"level":"info","message":"Fetching article: Clinical course of mild-to-moderate idiopathic pulmonary fibrosis during therapy with pirfenidone: Results of the non-interventional study AERplus.","timestamp":"2025-02-20T11:08:35.450Z"}
+{"level":"info","message":"Fetching article: Real-World Experience in the Clinical Use of Pirfenidone in Patients with Idiopathic Pulmonary Fibrosis in Taiwan: A Post-Marketing Surveillance Study.","timestamp":"2025-02-20T11:08:35.451Z"}
+{"level":"info","message":"Fetching article: South-West of England's Experience of the Safety and Tolerability Pirfenidone and Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis (IPF).","timestamp":"2025-02-20T11:08:35.452Z"}
+{"level":"info","message":"Fetching article: Real-World Practice Patterns for Prevention and Management of Potential Adverse Events with Pirfenidone in Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:08:35.453Z"}
+{"level":"info","message":"Fetching article: Longitudinal serological assessment of type VI collagen turnover is related to progression in a real-world cohort of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.455Z"}
+{"level":"info","message":"Fetching article: Efficacy of early antifibrotic treatment for idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.456Z"}
+{"level":"info","message":"Fetching article: Anticoagulant Use and Bleeding Risk in Central European Patients with Idiopathic Pulmonary Fibrosis (IPF) Treated with Antifibrotic Therapy: Real-World Data from EMPIRE.","timestamp":"2025-02-20T11:08:35.457Z"}
+{"level":"info","message":"Fetching article: Comparative outcomes in patients receiving pirfenidone or nintedanib for idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.459Z"}
+{"level":"info","message":"Fetching article: Real-world therapeutic performance of pirfenidone for connective tissue disease-associated interstitial lung diseases.","timestamp":"2025-02-20T11:08:35.460Z"}
+{"level":"info","message":"Fetching article: Longitudinal clinical outcomes in a real-world population of patients with idiopathic pulmonary fibrosis: the PROOF registry.","timestamp":"2025-02-20T11:08:35.461Z"}
+{"level":"info","message":"Fetching article: Baseline clinical characteristics, comorbidities and prescribed medication in a real-world population of patients with idiopathic pulmonary fibrosis: the PROOF registry.","timestamp":"2025-02-20T11:08:35.462Z"}
+{"level":"info","message":"Fetching article: Pirfenidone: an update on clinical trial data and insights from everyday practice.","timestamp":"2025-02-20T11:08:35.464Z"}
+{"level":"info","message":"Fetching article: Medication persistence rates and predictive factors for discontinuation of antifibrotic agents in patients with idiopathic pulmonary fibrosis: a real-world observational study.","timestamp":"2025-02-20T11:08:35.465Z"}
+{"level":"info","message":"Fetching article: A real-world study of antifibrotic drugs-related adverse events based on the United States food and drug administration adverse event reporting system and VigiAccess databases.","timestamp":"2025-02-20T11:08:35.467Z"}
+{"level":"info","message":"Fetching article: Expert consensus on the management of adverse events and prescribing practices associated with the treatment of patients taking pirfenidone for idiopathic pulmonary fibrosis: a Delphi consensus study.","timestamp":"2025-02-20T11:08:35.481Z"}
+{"level":"info","message":"Fetching article: Turnover of type I and III collagen predicts progression of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.483Z"}
+{"level":"info","message":"Fetching article: Comparison of the safety profiles for pirfenidone and nintedanib: a disproportionality analysis of the US food and drug administration adverse event reporting system.","timestamp":"2025-02-20T11:08:35.485Z"}
+{"level":"info","message":"Fetching article: Effect of sildenafil added to antifibrotic treatment in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.487Z"}
+{"level":"info","message":"Fetching article: Antifibrotic therapies reduce mortality and hospitalization among Medicare beneficiaries with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.489Z"}
+{"level":"info","message":"Fetching article: Understanding Patterns of Adherence to Antifibrotic Treatment in Idiopathic Pulmonary Fibrosis: Insights from an Italian Prospective Cohort Study.","timestamp":"2025-02-20T11:08:35.491Z"}
+{"level":"info","message":"Fetching article: NICEFIT-A Prospective, Non-Interventional, and Multicentric Study for the Management of Idiopathic Pulmonary Fibrosis with Antifibrotic Therapy in Taiwan.","timestamp":"2025-02-20T11:08:35.492Z"}
+{"level":"info","message":"Fetching article: Physician characteristics associated with treatment initiation patterns in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:08:35.494Z"}
+{"level":"info","message":"Fetching article: Long-Term Safety of Antifibrotic Drugs in IPF: A Real-World Experience.","timestamp":"2025-02-20T11:08:35.496Z"}
+{"level":"info","message":"Fetching article: Therapeutic decisions in a cohort of patients with idiopathic pulmonary fibrosis: a multicenter, prospective survey from Poland.","timestamp":"2025-02-20T11:08:35.498Z"}
+{"level":"info","message":"Fetching article: The impact of antifibrotic use on long-term clinical outcomes in the pulmonary fibrosis foundation registry.","timestamp":"2025-02-20T11:08:35.499Z"}
+{"level":"info","message":"Fetching article: Perioperative Anti-Fibrotic Treatment Prevents Acute Exacerbation of Idiopathic Pulmonary Fibrosis After Lung Cancer Surgery.","timestamp":"2025-02-20T11:08:35.501Z"}
+{"level":"info","message":"Fetching article: Choice of Methodology Impacts Outcome in Indirect Comparisons of Drugs for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:08:35.502Z"}
+{"level":"info","message":"Fetching article: Qualitative European survey of patients with idiopathic pulmonary fibrosis: patients' perspectives of the disease and treatment.","timestamp":"2025-02-20T11:08:35.504Z"}
+{"level":"info","message":"Fetching article: A multicentre retrospective observational study on Polish experience of pirfenidone therapy in patients with idiopathic pulmonary fibrosis: the PolExPIR study.","timestamp":"2025-02-20T11:08:35.506Z"}
+{"level":"info","message":"Fetching article: \"Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis.\" Vincent Cottin and Toby Maher. Eur Respir Rev 2015; 24: 58-64.","timestamp":"2025-02-20T11:08:35.508Z"}
+{"level":"info","message":"Fetching article: Safety, effectiveness, and usefulness of higher-dose tablets of generic pirfenidone in patients with IPF: a nationwide observational study in South Korea.","timestamp":"2025-02-20T11:08:35.510Z"}
+{"level":"info","message":"Fetching article: Effect of pirfenidone on lung function decline and survival: 5-yr experience from a real-life IPF cohort from the Czech EMPIRE registry.","timestamp":"2025-02-20T11:08:35.511Z"}
+{"level":"info","message":"Fetching article: Pirfenidone improves survival in IPF: results from a real-life study.","timestamp":"2025-02-20T11:08:35.513Z"}
+{"level":"info","message":"Fetching article: Long-term safety of pirfenidone: results of the prospective, observational PASSPORT study.","timestamp":"2025-02-20T11:08:35.516Z"}
+{"level":"info","message":"Fetching article: Early clinical experiences with nintedanib in three UK tertiary interstitial lung disease centres.","timestamp":"2025-02-20T11:08:35.517Z"}
+{"level":"info","message":"Fetching article: Clinical course of IPF in Italian patients during 12 months of observation: results from the FIBRONET observational study.","timestamp":"2025-02-20T11:08:35.519Z"}
+{"level":"info","message":"Fetching article: Possible value of antifibrotic drugs in patients with progressive fibrosing non-IPF interstitial lung diseases.","timestamp":"2025-02-20T11:08:35.521Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/dc/df/PMC9488585.tar.gz","timestamp":"2025-02-20T11:08:35.990Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/47/84/PMC8411897.tar.gz","timestamp":"2025-02-20T11:08:35.995Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a9/2e/PMC5039481.tar.gz","timestamp":"2025-02-20T11:08:35.998Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/97/f4/PMC6156214.tar.gz","timestamp":"2025-02-20T11:08:36.003Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/8d/PMC10773730.tar.gz","timestamp":"2025-02-20T11:08:36.006Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7e/e3/PMC10219256.tar.gz","timestamp":"2025-02-20T11:08:36.014Z"}
+{"level":"info","message":"Extracting text from PDF: PMC8411897/ERJ-02718-2020.pdf","timestamp":"2025-02-20T11:08:37.368Z"}
+{"level":"info","message":"Extracting text from PDF: PMC5039481/jcm-05-00078.pdf","timestamp":"2025-02-20T11:08:37.958Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10219256/jcm-12-03564.pdf","timestamp":"2025-02-20T11:08:38.320Z"}
+{"level":"info","message":"Extracting text from PDF: PMC6156214/10.1177_1753466618800618.pdf","timestamp":"2025-02-20T11:08:38.505Z"}
+{"level":"info","message":"Extracting text from PDF: PMC9488585/ERR-0057-2017_Wijsenbeek.pdf","timestamp":"2025-02-20T11:08:38.679Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10773730/fphar-14-1301923.pdf","timestamp":"2025-02-20T11:08:39.076Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9d/29/PMC11043774.tar.gz","timestamp":"2025-02-20T11:08:42.373Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/01/c3/PMC9487763.tar.gz","timestamp":"2025-02-20T11:08:42.381Z"}
+{"level":"info","message":"Extracting text from PDF: PMC11043774/bmjresp-2023-001687.pdf","timestamp":"2025-02-20T11:08:43.643Z"}
+{"level":"info","message":"Extracting text from PDF: PMC9487763/ERR-0115-2014_Maher.pdf","timestamp":"2025-02-20T11:08:44.862Z"}
+{"level":"info","message":"Error processing article PMC6852748: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.070Z"}
+{"level":"info","message":"Error processing article PMC5670096: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.071Z"}
+{"level":"info","message":"Error processing article PMC7903602: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.072Z"}
+{"level":"info","message":"Error processing article PMC6194203: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.072Z"}
+{"level":"info","message":"Error processing article PMC6341650: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.072Z"}
+{"level":"info","message":"Error processing article PMC6251092: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.073Z"}
+{"level":"info","message":"Error processing article PMC9487684: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.073Z"}
+{"level":"info","message":"Error processing article PMC11341391: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.075Z"}
+{"level":"info","message":"Error processing article PMC7199354: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.075Z"}
+{"level":"info","message":"Error processing article PMC4712607: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.076Z"}
+{"level":"info","message":"Error processing article PMC6723644: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.076Z"}
+{"level":"info","message":"Error processing article PMC11595336: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.076Z"}
+{"level":"info","message":"Error processing article PMC11193272: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.077Z"}
+{"level":"info","message":"Error processing article PMC9425901: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.078Z"}
+{"level":"info","message":"Error processing article PMC9775369: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.078Z"}
+{"level":"info","message":"Error processing article PMC6764076: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.078Z"}
+{"level":"info","message":"Error processing article PMC9598748: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.079Z"}
+{"level":"info","message":"Error processing article PMC11084189: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.079Z"}
+{"level":"info","message":"Error processing article PMC10390936: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.080Z"}
+{"level":"info","message":"Error processing article PMC8426395: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.080Z"}
+{"level":"info","message":"Error processing article PMC11163030: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.080Z"}
+{"level":"info","message":"Error processing article PMC8281632: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.081Z"}
+{"level":"info","message":"Error processing article PMC7362639: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.082Z"}
+{"level":"info","message":"Error processing article PMC10920264: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.083Z"}
+{"level":"info","message":"Error processing article PMC6719482: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.083Z"}
+{"level":"info","message":"Error processing article PMC9487270: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.084Z"}
+{"level":"info","message":"Error processing article PMC6267319: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.084Z"}
+{"level":"info","message":"Error processing article PMC11544659: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.085Z"}
+{"level":"info","message":"Error processing article PMC6813978: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.085Z"}
+{"level":"info","message":"Error processing article PMC8094468: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.086Z"}
+{"level":"info","message":"Error processing article PMC7497686: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.087Z"}
+{"level":"info","message":"Error processing article PMC8609852: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.088Z"}
+{"level":"info","message":"Error processing article PMC8272304: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.088Z"}
+{"level":"info","message":"Error processing article PMC6967051: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.089Z"}
+{"level":"info","message":"Error processing article PMC6304353: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.089Z"}
+{"level":"info","message":"Error processing article PMC11504274: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.090Z"}
+{"level":"info","message":"Error processing article PMC11014748: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.090Z"}
+{"level":"info","message":"Error processing article PMC7719184: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.092Z"}
+{"level":"info","message":"Error processing article PMC5787691: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.093Z"}
+{"level":"info","message":"Error processing article PMC7700641: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.093Z"}
+{"level":"info","message":"Error processing article PMC10410245: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.094Z"}
+{"level":"info","message":"Error processing article PMC6992179: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.094Z"}
+{"level":"info","message":"Error processing article PMC8699661: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.095Z"}
+{"level":"info","message":"Error processing article PMC9589320: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.095Z"}
+{"level":"info","message":"Error processing article PMC7569563: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.096Z"}
+{"level":"info","message":"Error processing article PMC7569556: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.097Z"}
+{"level":"info","message":"Error processing article PMC11175405: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.097Z"}
+{"level":"info","message":"Error processing article PMC9897553: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.098Z"}
+{"level":"info","message":"Error processing article PMC10543307: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.098Z"}
+{"level":"info","message":"Error processing article PMC7467484: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.099Z"}
+{"level":"info","message":"Error processing article PMC7854391: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.101Z"}
+{"level":"info","message":"Error processing article PMC8442489: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.102Z"}
+{"level":"info","message":"Error processing article PMC10928060: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.102Z"}
+{"level":"info","message":"Error processing article PMC8006845: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.103Z"}
+{"level":"info","message":"Error processing article PMC11280355: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.103Z"}
+{"level":"info","message":"Error processing article PMC8925945: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.104Z"}
+{"level":"info","message":"Error processing article PMC7213901: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.105Z"}
+{"level":"info","message":"Error processing article PMC11293013: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.105Z"}
+{"level":"info","message":"Error processing article PMC10642852: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.106Z"}
+{"level":"info","message":"Error processing article PMC5985741: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.107Z"}
+{"level":"info","message":"Error processing article PMC5712559: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:10:46.107Z"}
+{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-20T11:10:46.107Z"}
+{"level":"info","message":"Started document Embedding","timestamp":"2025-02-20T11:10:46.107Z"}
+{"level":"info","message":"Created chat Successfully","timestamp":"2025-02-20T11:10:48.758Z"}
+{"level":"info","message":"Searching PubMed for: \"idiopathic pulmonary fibrosis in Italy\"","timestamp":"2025-02-20T11:13:41.969Z"}
+{"level":"info","message":"Found 57 articles.","timestamp":"2025-02-20T11:13:45.049Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Disease mechanisms and drug development.","timestamp":"2025-02-20T11:13:45.050Z"}
+{"level":"info","message":"Fetching article: Current and Future Treatment Landscape for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:13:45.052Z"}
+{"level":"info","message":"Fetching article: Progressive pulmonary fibrosis: an expert group consensus statement.","timestamp":"2025-02-20T11:13:45.054Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: pathogenesis and management.","timestamp":"2025-02-20T11:13:45.055Z"}
+{"level":"info","message":"Fetching article: Pirfenidone safety and adverse event management in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:13:45.056Z"}
+{"level":"info","message":"Fetching article: Immunomodulatory treatment of interstitial lung disease.","timestamp":"2025-02-20T11:13:45.058Z"}
+{"level":"info","message":"Fetching article: Emerging cellular and molecular determinants of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:13:45.059Z"}
+{"level":"info","message":"Fetching article: Design of a phase III, double-blind, randomised, placebo-controlled trial of BI 1015550 in patients with idiopathic pulmonary fibrosis (FIBRONEER-IPF).","timestamp":"2025-02-20T11:13:45.060Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis beyond the lung: understanding disease mechanisms to improve diagnosis and management.","timestamp":"2025-02-20T11:13:45.061Z"}
+{"level":"info","message":"Fetching article: Environmental Causes of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:13:45.062Z"}
+{"level":"info","message":"Fetching article: Efficacy of Pirfenidone and Nintedanib in Interstitial Lung Diseases Other than Idiopathic Pulmonary Fibrosis: A Systematic Review.","timestamp":"2025-02-20T11:13:45.063Z"}
+{"level":"info","message":"Fetching article: The therapy of idiopathic pulmonary fibrosis: what is next?","timestamp":"2025-02-20T11:13:45.064Z"}
+{"level":"info","message":"Fetching article: The causal relationship between gastro-oesophageal reflux disease and idiopathic pulmonary fibrosis: a bidirectional two-sample Mendelian randomisation study.","timestamp":"2025-02-20T11:13:45.066Z"}
+{"level":"info","message":"Fetching article: Regeneration or Repair? The Role of Alveolar Epithelial Cells in the Pathogenesis of Idiopathic Pulmonary Fibrosis (IPF).","timestamp":"2025-02-20T11:13:45.067Z"}
+{"level":"info","message":"Fetching article: Fibrotic Idiopathic Interstitial Lung Disease: The Molecular and Cellular Key Players.","timestamp":"2025-02-20T11:13:45.068Z"}
+{"level":"info","message":"Fetching article: Pamrevlumab for Idiopathic Pulmonary Fibrosis: The ZEPHYRUS-1 Randomized Clinical Trial.","timestamp":"2025-02-20T11:13:45.069Z"}
+{"level":"info","message":"Fetching article: Zinpentraxin Alfa for Idiopathic Pulmonary Fibrosis: The Randomized Phase III STARSCAPE Trial.","timestamp":"2025-02-20T11:13:45.070Z"}
+{"level":"info","message":"Fetching article: Molecular Mechanisms and Cellular Contribution from Lung Fibrosis to Lung Cancer Development.","timestamp":"2025-02-20T11:13:45.071Z"}
+{"level":"info","message":"Fetching article: Fra-2-expressing macrophages promote lung fibrosis in mice.","timestamp":"2025-02-20T11:13:45.072Z"}
+{"level":"info","message":"Fetching article: Lung Microbiome in Idiopathic Pulmonary Fibrosis and Other Interstitial Lung Diseases.","timestamp":"2025-02-20T11:13:45.073Z"}
+{"level":"info","message":"Fetching article: [object Object]","timestamp":"2025-02-20T11:13:45.074Z"}
+{"level":"info","message":"Fetching article: Mortality trends in idiopathic pulmonary fibrosis in Europe between 2013 and 2018.","timestamp":"2025-02-20T11:13:45.075Z"}
+{"level":"info","message":"Fetching article: Incidental discovery of interstitial lung disease: diagnostic approach, surveillance and perspectives.","timestamp":"2025-02-20T11:13:45.077Z"}
+{"level":"info","message":"Fetching article: Metabolic Dysregulation in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:13:45.078Z"}
+{"level":"info","message":"Fetching article: Molecular Biomarkers in Idiopathic Pulmonary Fibrosis: State of the Art and Future Directions.","timestamp":"2025-02-20T11:13:45.079Z"}
+{"level":"info","message":"Fetching article: Occurrence of Idiopathic Pulmonary Fibrosis in Italy: Latest Evidence from Real-World Data.","timestamp":"2025-02-20T11:13:45.082Z"}
+{"level":"info","message":"Fetching article: Sarcopenia in idiopathic pulmonary fibrosis: a prospective study exploring prevalence, associated factors and diagnostic approach.","timestamp":"2025-02-20T11:13:45.083Z"}
+{"level":"info","message":"Fetching article: Idiopathic Pulmonary Fibrosis and Lung Transplantation: When it is Feasible.","timestamp":"2025-02-20T11:13:45.084Z"}
+{"level":"info","message":"Fetching article: Epidemiological studies in idiopathic pulmonary fibrosis: pitfalls in methodologies and data interpretation.","timestamp":"2025-02-20T11:13:45.085Z"}
+{"level":"info","message":"Fetching article: Immune Stroma in Lung Cancer and Idiopathic Pulmonary Fibrosis: A Common Biologic Landscape?","timestamp":"2025-02-20T11:13:45.087Z"}
+{"level":"info","message":"Fetching article: Cough in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:13:45.088Z"}
+{"level":"info","message":"Fetching article: Sirtuins and Cellular Senescence in Patients with Idiopathic Pulmonary Fibrosis and Systemic Autoimmune Disorders.","timestamp":"2025-02-20T11:13:45.089Z"}
+{"level":"info","message":"Fetching article: Beyond idiopathic pulmonary fibrosis: the world of progressive-fibrosing interstitial lung disease.","timestamp":"2025-02-20T11:13:45.090Z"}
+{"level":"info","message":"Fetching article: Rethinking Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:13:45.091Z"}
+{"level":"info","message":"Fetching article: Comorbidities in idiopathic pulmonary fibrosis: an underestimated issue.","timestamp":"2025-02-20T11:13:45.092Z"}
+{"level":"info","message":"Fetching article: Nutrition in Patients with Idiopathic Pulmonary Fibrosis: Critical Issues Analysis and Future Research Directions.","timestamp":"2025-02-20T11:13:45.093Z"}
+{"level":"info","message":"Fetching article: Treprostinil Reconstitutes Mitochondrial Organisation and Structure in Idiopathic Pulmonary Fibrosis Cells.","timestamp":"2025-02-20T11:13:45.094Z"}
+{"level":"info","message":"Fetching article: Ongoing challenges in pulmonary fibrosis and insights from the nintedanib clinical programme.","timestamp":"2025-02-20T11:13:45.095Z"}
+{"level":"info","message":"Fetching article: A formula for predicting emphysema extent in combined idiopathic pulmonary fibrosis and emphysema.","timestamp":"2025-02-20T11:13:45.097Z"}
+{"level":"info","message":"Fetching article: Efficacy and safety of nintedanib in patients with advanced idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:13:45.098Z"}
+{"level":"info","message":"Fetching article: Design of a phase III, double-blind, randomised, placebo-controlled trial of BI 1015550 in patients with progressive pulmonary fibrosis (FIBRONEER-ILD).","timestamp":"2025-02-20T11:13:45.099Z"}
+{"level":"info","message":"Fetching article: Epidemiology of Idiopathic Pulmonary Fibrosis in Northern Italy.","timestamp":"2025-02-20T11:13:45.100Z"}
+{"level":"info","message":"Fetching article: The diagnosis of idiopathic pulmonary fibrosis: current and future approaches.","timestamp":"2025-02-20T11:13:45.101Z"}
+{"level":"info","message":"Fetching article: The future of clinical trials in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:13:45.102Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis and sleep disorders: no longer strangers in the night.","timestamp":"2025-02-20T11:13:45.103Z"}
+{"level":"info","message":"Fetching article: Idiopathic Pulmonary Fibrosis for Cardiologists: Differential Diagnosis, Cardiovascular Comorbidities, and Patient Management.","timestamp":"2025-02-20T11:13:45.104Z"}
+{"level":"info","message":"Fetching article: Epithelial-Mesenchymal Transition: A Major Pathogenic Driver in Idiopathic Pulmonary Fibrosis?","timestamp":"2025-02-20T11:13:45.105Z"}
+{"level":"info","message":"Fetching article: Cardiovascular Structural and Functional Parameters in Idiopathic Pulmonary Fibrosis at Disease Diagnosis.","timestamp":"2025-02-20T11:13:45.107Z"}
+{"level":"info","message":"Fetching article: The Role of the Lung's Microbiome in the Pathogenesis and Progression of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:13:45.108Z"}
+{"level":"info","message":"Fetching article: Quantitative Computed Tomography in Idiopathic Pulmonary Fibrosis: Is It Time to Act?","timestamp":"2025-02-20T11:13:45.109Z"}
+{"level":"info","message":"Fetching article: Immune Inflammation and Disease Progression in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:13:45.110Z"}
+{"level":"info","message":"Fetching article: Best supportive care for idiopathic pulmonary fibrosis: current gaps and future directions.","timestamp":"2025-02-20T11:13:45.111Z"}
+{"level":"info","message":"Fetching article: Evaluation of oxidative stress biomarkers in idiopathic pulmonary fibrosis and therapeutic applications: a systematic review.","timestamp":"2025-02-20T11:13:45.112Z"}
+{"level":"info","message":"Fetching article: Common pathways in idiopathic pulmonary fibrosis and cancer.","timestamp":"2025-02-20T11:13:45.113Z"}
+{"level":"info","message":"Fetching article: Concomitant medications and clinical outcomes in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:13:45.114Z"}
+{"level":"info","message":"Fetching article: Identifying the Risk of Acute Exacerbation in Idiopathic Pulmonary Fibrosis: A Step Forward.","timestamp":"2025-02-20T11:13:45.115Z"}
+{"level":"info","message":"Fetching article: Small airways pathology in idiopathic pulmonary fibrosis: a retrospective cohort study.","timestamp":"2025-02-20T11:13:45.117Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ff/93/PMC10693523.tar.gz","timestamp":"2025-02-20T11:13:45.711Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC8142468, {\"_\":\"identifier 'PMC8142468' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-20T11:13:45.713Z"}
+{"level":"info","message":"Error processing article PMC8142468: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-20T11:13:45.714Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e1/53/PMC5824456.tar.gz","timestamp":"2025-02-20T11:13:45.719Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/dc/df/PMC9488585.tar.gz","timestamp":"2025-02-20T11:13:45.721Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/72/63/PMC7669490.tar.gz","timestamp":"2025-02-20T11:13:45.725Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/bd/92/PMC10060665.tar.gz","timestamp":"2025-02-20T11:13:45.729Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10693523/40265_2023_Article_1950.pdf","timestamp":"2025-02-20T11:13:47.076Z"}
+{"level":"info","message":"Extracting text from PDF: PMC7669490/18_2020_Article_3693.pdf","timestamp":"2025-02-20T11:13:47.470Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10060665/ERJ-03187-2021.pdf","timestamp":"2025-02-20T11:13:47.663Z"}
+{"level":"info","message":"Extracting text from PDF: PMC5824456/12931_2018_Article_730.pdf","timestamp":"2025-02-20T11:13:47.977Z"}
+{"level":"info","message":"Extracting text from PDF: PMC9488585/ERR-0057-2017_Wijsenbeek.pdf","timestamp":"2025-02-20T11:13:48.128Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/44/PMC8052779.tar.gz","timestamp":"2025-02-20T11:13:50.434Z"}
+{"level":"info","message":"Extracting text from PDF: PMC8052779/12931_2021_Article_1711.pdf","timestamp":"2025-02-20T11:13:51.536Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a3/11/PMC10441083.tar.gz","timestamp":"2025-02-20T11:13:51.712Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/17/09/PMC9364223.tar.gz","timestamp":"2025-02-20T11:13:51.715Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0e/70/PMC9266271.tar.gz","timestamp":"2025-02-20T11:13:51.719Z"}
+{"level":"info","message":"Extracting text from PDF: PMC9364223/10.1177_17534666221117002.pdf","timestamp":"2025-02-20T11:13:52.699Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10441083/bmjresp-2022-001563.pdf","timestamp":"2025-02-20T11:13:52.934Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC7292784, {\"_\":\"identifier 'PMC7292784' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-20T11:13:56.953Z"}
+{"level":"info","message":"Error processing article PMC7292784: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-20T11:13:56.954Z"}
+{"level":"info","message":"Error processing article PMC6906546: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.318Z"}
+{"level":"info","message":"Error processing article PMC8906478: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.319Z"}
+{"level":"info","message":"Error processing article PMC9487347: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.320Z"}
+{"level":"info","message":"Error processing article PMC5872514: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.321Z"}
+{"level":"info","message":"Error processing article PMC4861274: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.321Z"}
+{"level":"info","message":"Error processing article PMC9488950: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.322Z"}
+{"level":"info","message":"Error processing article PMC11351806: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.322Z"}
+{"level":"info","message":"Error processing article PMC11161536: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.322Z"}
+{"level":"info","message":"Error processing article PMC6888416: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.323Z"}
+{"level":"info","message":"Error processing article PMC7697350: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.323Z"}
+{"level":"info","message":"Error processing article PMC9487812: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.324Z"}
+{"level":"info","message":"Error processing article PMC6824347: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.324Z"}
+{"level":"info","message":"Error processing article PMC11377049: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.325Z"}
+{"level":"info","message":"Error processing article PMC5524148: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.325Z"}
+{"level":"info","message":"Error processing article PMC4740484: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.326Z"}
+{"level":"info","message":"Error processing article PMC6951000: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.326Z"}
+{"level":"info","message":"Error processing article PMC10503394: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.326Z"}
+{"level":"info","message":"Error processing article PMC10795205: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.327Z"}
+{"level":"info","message":"Error processing article PMC10418929: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.327Z"}
+{"level":"info","message":"Error processing article PMC6945404: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.328Z"}
+{"level":"info","message":"Error processing article PMC7231241: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.328Z"}
+{"level":"info","message":"Error processing article PMC9488913: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.328Z"}
+{"level":"info","message":"Error processing article PMC9075032: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.329Z"}
+{"level":"info","message":"Error processing article PMC9489160: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.329Z"}
+{"level":"info","message":"Error processing article PMC11189987: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.330Z"}
+{"level":"info","message":"Error processing article PMC9487209: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.330Z"}
+{"level":"info","message":"Error processing article PMC8000622: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.330Z"}
+{"level":"info","message":"Error processing article PMC9487686: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.331Z"}
+{"level":"info","message":"Error processing article PMC6843894: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.331Z"}
+{"level":"info","message":"Error processing article PMC9440318: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.332Z"}
+{"level":"info","message":"Error processing article PMC8230407: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.332Z"}
+{"level":"info","message":"Error processing article PMC8909740: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.332Z"}
+{"level":"info","message":"Error processing article PMC7461042: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.333Z"}
+{"level":"info","message":"Error processing article PMC9488620: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.333Z"}
+{"level":"info","message":"Error processing article PMC11339406: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.334Z"}
+{"level":"info","message":"Error processing article PMC10792439: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.334Z"}
+{"level":"info","message":"Error processing article PMC8779068: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.334Z"}
+{"level":"info","message":"Error processing article PMC6668681: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.335Z"}
+{"level":"info","message":"Error processing article PMC8624248: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.335Z"}
+{"level":"info","message":"Error processing article PMC11092957: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.337Z"}
+{"level":"info","message":"Error processing article PMC11304118: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.337Z"}
+{"level":"info","message":"Error processing article PMC8396471: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.337Z"}
+{"level":"info","message":"Error processing article PMC10209472: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.338Z"}
+{"level":"info","message":"Error processing article PMC9488691: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.338Z"}
+{"level":"info","message":"Error processing article PMC10178294: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.339Z"}
+{"level":"info","message":"Error processing article PMC10671449: Error: connect ETIMEDOUT 130.14.29.110:443","timestamp":"2025-02-20T11:15:55.339Z"}
+{"level":"info","message":"Error processing article PMC9266271: Error: connect ETIMEDOUT 130.14.250.7:443","timestamp":"2025-02-20T11:16:01.462Z"}
+{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-20T11:16:01.463Z"}
+{"level":"info","message":"Started document Embedding","timestamp":"2025-02-20T11:16:01.463Z"}
+{"level":"info","message":"Created chat Successfully","timestamp":"2025-02-20T11:16:06.492Z"}
+{"level":"info","message":"Searching PubMed for: \"idiopathic pulmonary fibrosis germany epidemiology \"","timestamp":"2025-02-20T11:18:02.288Z"}
+{"level":"info","message":"Found 60 articles.","timestamp":"2025-02-20T11:18:08.790Z"}
+{"level":"info","message":"Fetching article: Global incidence and prevalence of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.791Z"}
+{"level":"info","message":"Fetching article: Interstitial lung disease.","timestamp":"2025-02-20T11:18:08.793Z"}
+{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis beyond the lung: understanding disease mechanisms to improve diagnosis and management.","timestamp":"2025-02-20T11:18:08.794Z"}
+{"level":"info","message":"Fetching article: Pirfenidone safety and adverse event management in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.796Z"}
+{"level":"info","message":"Fetching article: The therapy of idiopathic pulmonary fibrosis: what is next?","timestamp":"2025-02-20T11:18:08.798Z"}
+{"level":"info","message":"Fetching article: Presentation, diagnosis and clinical course of the spectrum of progressive-fibrosing interstitial lung diseases.","timestamp":"2025-02-20T11:18:08.799Z"}
+{"level":"info","message":"Fetching article: Fibrosing interstitial lung diseases: knowns and unknowns.","timestamp":"2025-02-20T11:18:08.800Z"}
+{"level":"info","message":"Fetching article: Idiopathic Pulmonary Fibrosis Is Associated with Common Genetic Variants and Limited Rare Variants.","timestamp":"2025-02-20T11:18:08.802Z"}
+{"level":"info","message":"Fetching article: [object Object]","timestamp":"2025-02-20T11:18:08.803Z"}
+{"level":"info","message":"Fetching article: Mortality trends in idiopathic pulmonary fibrosis in Europe between 2013 and 2018.","timestamp":"2025-02-20T11:18:08.804Z"}
+{"level":"info","message":"Fetching article: The threat in chronic lung diseases: acute exacerbations.","timestamp":"2025-02-20T11:18:08.809Z"}
+{"level":"info","message":"Fetching article: Best supportive care for idiopathic pulmonary fibrosis: current gaps and future directions.","timestamp":"2025-02-20T11:18:08.811Z"}
+{"level":"info","message":"Fetching article: The burden of cough in idiopathic pulmonary fibrosis and other interstitial lung diseases: a systematic evidence synthesis.","timestamp":"2025-02-20T11:18:08.812Z"}
+{"level":"info","message":"Fetching article: Treatment patterns and patient journey in progressive pulmonary fibrosis: a cross-sectional survey.","timestamp":"2025-02-20T11:18:08.814Z"}
+{"level":"info","message":"Fetching article: Pharmacological Treatment of Idiopathic Pulmonary Fibrosis: Current Approaches, Unsolved Issues, and Future Perspectives.","timestamp":"2025-02-20T11:18:08.815Z"}
+{"level":"info","message":"Fetching article: Weight loss and outcomes in subjects with progressive pulmonary fibrosis: data from the INBUILD trial.","timestamp":"2025-02-20T11:18:08.817Z"}
+{"level":"info","message":"Fetching article: Disease trajectories in interstitial lung diseases - data from the EXCITING-ILD registry.","timestamp":"2025-02-20T11:18:08.818Z"}
+{"level":"info","message":"Fetching article: Concomitant medications and clinical outcomes in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.820Z"}
+{"level":"info","message":"Fetching article: Psychometric properties and minimal important differences of SF-36 in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:18:08.822Z"}
+{"level":"info","message":"Fetching article: The clinical course of idiopathic pulmonary fibrosis and its association to quality of life over time: longitudinal data from the INSIGHTS-IPF registry.","timestamp":"2025-02-20T11:18:08.823Z"}
+{"level":"info","message":"Fetching article: Evidence-based treatment strategies in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.825Z"}
+{"level":"info","message":"Fetching article: Efficacy and safety of nintedanib in patients with idiopathic pulmonary fibrosis who are elderly or have comorbidities.","timestamp":"2025-02-20T11:18:08.826Z"}
+{"level":"info","message":"Fetching article: The Burden of Progressive-Fibrosing Interstitial Lung Diseases.","timestamp":"2025-02-20T11:18:08.828Z"}
+{"level":"info","message":"Fetching article: Antacid Therapy and Disease Progression in Patients with Idiopathic Pulmonary Fibrosis Who Received Pirfenidone.","timestamp":"2025-02-20T11:18:08.829Z"}
+{"level":"info","message":"Fetching article: Pirfenidone vs. nintedanib in patients with idiopathic pulmonary fibrosis: a retrospective cohort study.","timestamp":"2025-02-20T11:18:08.831Z"}
+{"level":"info","message":"Fetching article: Systemic corticosteroids in fibrotic lung disease: a systematic review and meta-analysis.","timestamp":"2025-02-20T11:18:08.832Z"}
+{"level":"info","message":"Fetching article: The changing treatment landscape in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.834Z"}
+{"level":"info","message":"Fetching article: Characterizing idiopathic pulmonary fibrosis patients using US Medicare-advantage health plan claims data.","timestamp":"2025-02-20T11:18:08.835Z"}
+{"level":"info","message":"Fetching article: The European IPF registry (eurIPFreg): baseline characteristics and survival of patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.837Z"}
+{"level":"info","message":"Fetching article: Increased monocyte count and red cell distribution width as prognostic biomarkers in patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:18:08.839Z"}
+{"level":"info","message":"Fetching article: Clinical characteristics of patients with familial idiopathic pulmonary fibrosis (f-IPF).","timestamp":"2025-02-20T11:18:08.840Z"}
+{"level":"info","message":"Fetching article: Serum soluble isoform of receptor for advanced glycation end product is a predictive biomarker for acute exacerbation of idiopathic pulmonary fibrosis: a German and Japanese cohort study.","timestamp":"2025-02-20T11:18:08.842Z"}
+{"level":"info","message":"Fetching article: Characterizing Health Outcomes in Idiopathic Pulmonary Fibrosis using US Health Claims Data.","timestamp":"2025-02-20T11:18:08.843Z"}
+{"level":"info","message":"Fetching article: Qualitative European survey of patients with idiopathic pulmonary fibrosis: patients' perspectives of the disease and treatment.","timestamp":"2025-02-20T11:18:08.846Z"}
+{"level":"info","message":"Fetching article: Design and baseline characteristics of the ILD-PRO registry in patients with progressive pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.847Z"}
+{"level":"info","message":"Fetching article: The importance of effective registries in pulmonary diseases and how to optimize their output.","timestamp":"2025-02-20T11:18:08.849Z"}
+{"level":"info","message":"Fetching article: Relationship between body composition, exercise capacity and health-related quality of life in idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.851Z"}
+{"level":"info","message":"Fetching article: Idiopathic Pulmonary Fibrosis in Elderly Patients: Analysis of the INSIGHTS-IPF Observational Study.","timestamp":"2025-02-20T11:18:08.853Z"}
+{"level":"info","message":"Fetching article: Anti-acid therapy in idiopathic pulmonary fibrosis: insights from the INPULSIS® trials.","timestamp":"2025-02-20T11:18:08.854Z"}
+{"level":"info","message":"Fetching article: Associations of circulating matrix metalloproteinases and tissue inhibitors of matrix metalloproteinases with clinically relevant outcomes in idiopathic pulmonary fibrosis: Data from the IPF-PRO Registry.","timestamp":"2025-02-20T11:18:08.856Z"}
+{"level":"info","message":"Fetching article: A Cost-Effectiveness Analysis of Nintedanib in Idiopathic Pulmonary Fibrosis in the UK.","timestamp":"2025-02-20T11:18:08.859Z"}
+{"level":"info","message":"Fetching article: Safety and survival data in patients with idiopathic pulmonary fibrosis treated with nintedanib: pooled data from six clinical trials.","timestamp":"2025-02-20T11:18:08.861Z"}
+{"level":"info","message":"Fetching article: Using Data on Survival with Idiopathic Pulmonary Fibrosis to Estimate Survival with Other Types of Progressive Fibrosis Interstitial Lung Disease: A Bayesian Framework.","timestamp":"2025-02-20T11:18:08.863Z"}
+{"level":"info","message":"Fetching article: Healthcare utilisation and costs in the diagnosis and treatment of progressive-fibrosing interstitial lung diseases.","timestamp":"2025-02-20T11:18:08.865Z"}
+{"level":"info","message":"Fetching article: Effect of statins on disease-related outcomes in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.867Z"}
+{"level":"info","message":"Fetching article: BAL Cell Gene Expression Is Indicative of Outcome and Airway Basal Cell Involvement in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:18:08.869Z"}
+{"level":"info","message":"Fetching article: Pharmacological management of progressive-fibrosing interstitial lung diseases: a review of the current evidence.","timestamp":"2025-02-20T11:18:08.871Z"}
+{"level":"info","message":"Fetching article: Impact of Comorbidities on Mortality in Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-20T11:18:08.873Z"}
+{"level":"info","message":"Fetching article: Macrophage activation in acute exacerbation of idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.876Z"}
+{"level":"info","message":"Fetching article: Serum Levels of Surfactant Proteins in Patients with Combined Pulmonary Fibrosis and Emphysema (CPFE).","timestamp":"2025-02-20T11:18:08.878Z"}
+{"level":"info","message":"Fetching article: Donor age over 55 is associated with worse outcome in lung transplant recipients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.880Z"}
+{"level":"info","message":"Fetching article: Pulmonary hypertension in patients with idiopathic pulmonary fibrosis - the predictive value of exercise capacity and gas exchange efficiency.","timestamp":"2025-02-20T11:18:08.882Z"}
+{"level":"info","message":"Fetching article: Investigating significant health trends in idiopathic pulmonary fibrosis (INSIGHTS-IPF): rationale, aims and design of a nationwide prospective registry.","timestamp":"2025-02-20T11:18:08.884Z"}
+{"level":"info","message":"Fetching article: The role of Phafin proteins in cell signaling pathways and diseases.","timestamp":"2025-02-20T11:18:08.890Z"}
+{"level":"info","message":"Fetching article: Research highlights from the 2018 ERS International Congress: interstitial lung diseases.","timestamp":"2025-02-20T11:18:08.898Z"}
+{"level":"info","message":"Fetching article: Hospitalisation patterns in interstitial lung diseases: data from the EXCITING-ILD registry.","timestamp":"2025-02-20T11:18:08.900Z"}
+{"level":"info","message":"Fetching article: Epidemiology, healthcare utilization, and related costs among patients with IPF: results from a German claims database analysis.","timestamp":"2025-02-20T11:18:08.901Z"}
+{"level":"info","message":"Fetching article: Rationale, design and objectives of two phase III, randomised, placebo-controlled studies of GLPG1690, a novel autotaxin inhibitor, in idiopathic pulmonary fibrosis (ISABELA 1 and 2).","timestamp":"2025-02-20T11:18:08.904Z"}
+{"level":"info","message":"Fetching article: MicroRNA-144-3p targets relaxin/insulin-like family peptide receptor 1 (RXFP1) expression in lung fibroblasts from patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-20T11:18:08.905Z"}
+{"level":"info","message":"Fetching article: Pirfenidone Treatment in Individuals with Idiopathic Pulmonary Fibrosis: Impact of Timing of Treatment Initiation.","timestamp":"2025-02-20T11:18:08.912Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1e/96/PMC8261998.tar.gz","timestamp":"2025-02-20T11:18:09.182Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/44/PMC8052779.tar.gz","timestamp":"2025-02-20T11:18:09.186Z"}
+{"level":"info","message":"Extracting text from PDF: PMC8052779/12931_2021_Article_1711.pdf","timestamp":"2025-02-20T11:18:10.558Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC6442041, {\"_\":\"identifier 'PMC6442041' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-20T11:18:10.566Z"}
+{"level":"info","message":"Error processing article PMC6442041: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-20T11:18:10.566Z"}
+{"level":"info","message":"Extracting text from PDF: PMC8261998/12931_2021_Article_1791.pdf","timestamp":"2025-02-20T11:18:10.867Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/21/e2/PMC9487254.tar.gz","timestamp":"2025-02-20T11:18:13.554Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/38/98/PMC9489101.tar.gz","timestamp":"2025-02-20T11:18:13.559Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/dc/df/PMC9488585.tar.gz","timestamp":"2025-02-20T11:18:13.565Z"}
+{"level":"info","message":"Extracting text from PDF: PMC9489101/ERR-0100-2018.pdf","timestamp":"2025-02-20T11:18:14.370Z"}
+{"level":"info","message":"Extracting text from PDF: PMC9487254/err-23-131-040.pdf","timestamp":"2025-02-20T11:18:14.497Z"}
+{"level":"info","message":"Extracting text from PDF: PMC9488585/ERR-0057-2017_Wijsenbeek.pdf","timestamp":"2025-02-20T11:18:15.037Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/01/36/PMC6600834.tar.gz","timestamp":"2025-02-20T11:18:18.859Z"}
