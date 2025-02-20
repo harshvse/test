@@ -1,0 +1,149 @@
+adminuser-frontend-1  | 
+adminuser-frontend-1  | > nextjs@0.1.0 start
+adminuser-frontend-1  | > next start -H 0.0.0.0 -p 3001
+adminuser-frontend-1  | 
+adminuser-frontend-1  |    ▲ Next.js 14.1.3
+adminuser-frontend-1  |    - Local:        http://localhost:3001
+adminuser-frontend-1  |    - Network:      http://0.0.0.0:3001
+adminuser-frontend-1  | 
+adminuser-frontend-1  |  ✓ Ready in 573ms
+adminuser-backend-1   | info: Server running on port 3000 {"timestamp":"2025-02-20T06:49:32.620Z"}
+adminuser-backend-1   | [0mPOST /api/auth/login [32m2adminuser-backend-1   | info: Searching PubMed for: "pirfenidone tolerability idiopathic " {"timestamp":"2025-02-20T06:48:22.662Z"}
+adminuser-backend-1   | [0mPOST /api/chat [0m-[0m - ms - -[0m
+adminuser-backend-1   | [0mGET /api/chat/conversations [32m200[0m 11.082 ms - 48[0m
+adminuser-backend-1   | [0mGET /api/chat/conversations [36m304[0m 7.875 ms - -[0m
+adminuser-backend-1   | info: Searching PubMed for: "pirfenidone tolerability idiopathic " {"timestamp":"2025-02-20T06:48:50.495Z"}
+adminuser-backend-1   | info: Shutting down server... {"timestamp":"2025-02-20T06:49:11.542Z"}
+nd-1   | info: Fetching article: Pharmacotherapy and adjunctive treatment for idiopathic pulmonary fibrosis (IPF). {"timestamp":"2025-02-20T06:49:56.411Z"}
+adminuser-backend-1   | info: Fetching article: Management of Progressive Fibrosing Interstitial Lung Diseases (PF-ILD). {"timestamp":"2025-02-20T06:49:56.413Z"}
+adminuser-backend-1   | info: Fetching article: Learnings from clinical trials in patients with connective tissue disease-associated interstitial lung disease. {"timestamp":"2025-02-20T06:49:56.415Z"}
+adminuser-backend-1   | info: Fetching article: Safety and tolerability of combination treatment with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis: a systematic review and meta-analysis. {"timestamp":"2025-02-20T06:49:56.417Z"}
+adminuser-backend-1   | info: Fetching article: Efficacy and safety of combination therapy with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.420Z"}
+adminuser-backend-1   | info: Fetching article: Bexotegrast in Patients with Idiopathic Pulmonary Fibrosis: The INTEGRIS-IPF Clinical Trial. {"timestamp":"2025-02-20T06:49:56.422Z"}
+adminuser-backend-1   | info: Fetching article: Ziritaxestat, a Novel Autotaxin Inhibitor, and Lung Function in Idiopathic Pulmonary Fibrosis: The ISABELA 1 and 2 Randomized Clinical Trials. {"timestamp":"2025-02-20T06:49:56.423Z"}
+adminuser-backend-1   | info: Fetching article: Safety and tolerability of pirfenidone in asbestosis: a prospective multicenter study. {"timestamp":"2025-02-20T06:49:56.426Z"}
+adminuser-backend-1   | info: Fetching article: Efficacy and safety of pirfenidone for idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.428Z"}
+adminuser-backend-1   | info: Fetching article: Updated Evaluation of the Safety, Efficacy and Tolerability of Pirfenidone in the Treatment of Idiopathic Pulmonary Fibrosis. {"timestamp":"2025-02-20T06:49:56.430Z"}
+adminuser-backend-1   | info: Fetching article: Differences in tolerability of pirfenidone between elderly and younger patients with idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.432Z"}
+adminuser-backend-1   | info: Fetching article: Efficacy, safety, and tolerability of combined pirfenidone and N-acetylcysteine therapy: a systematic review and meta-analysis. {"timestamp":"2025-02-20T06:49:56.434Z"}
+adminuser-backend-1   | info: Fetching article: Nintedanib and pirfenidone for idiopathic pulmonary fibrosis in King Abdulaziz Medical City, Riyadh: Real-life data. {"timestamp":"2025-02-20T06:49:56.436Z"}
+adminuser-backend-1   | info: Fetching article: Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.438Z"}
+adminuser-backend-1   | info: Fetching article: Real World Experiences: Pirfenidone and Nintedanib are Effective and Well Tolerated Treatments for Idiopathic Pulmonary Fibrosis. {"timestamp":"2025-02-20T06:49:56.439Z"}
+adminuser-backend-1   | info: Fetching article: A real-world study of the dosing and tolerability of pirfenidone and its effect on survival in idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.441Z"}
+adminuser-backend-1   | info: Fetching article: South-West of England's Experience of the Safety and Tolerability Pirfenidone and Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis (IPF). {"timestamp":"2025-02-20T06:49:56.443Z"}
+adminuser-backend-1   | info: Fetching article: Real-world experiences: Efficacy and tolerability of pirfenidone in clinical practice. {"timestamp":"2025-02-20T06:49:56.445Z"}
+adminuser-backend-1   | info: Fetching article: Idiopathic pulmonary fibrosis: Addressing the current and future therapeutic advances along with the role of Sotatercept in the management of pulmonary hypertension. {"timestamp":"2025-02-20T06:49:56.447Z"}
+adminuser-backend-1   | info: Fetching article: Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.448Z"}
+adminuser-backend-1   | info: Fetching article: The role of pirfenidone in the treatment of idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.450Z"}
+adminuser-backend-1   | info: Fetching article: Safety and Efficacy of Pirfenidone in Advanced Idiopathic Pulmonary Fibrosis: A Nationwide Post-Marketing Surveillance Study in Korean Patients. {"timestamp":"2025-02-20T06:49:56.452Z"}
+adminuser-backend-1   | info: Fetching article: Analysis of the safety and efficacy of different plasma concentrations of pirfenidone in patients with idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.453Z"}
+adminuser-backend-1   | info: Fetching article: Comparison of the safety profiles for pirfenidone and nintedanib: a disproportionality analysis of the US food and drug administration adverse event reporting system. {"timestamp":"2025-02-20T06:49:56.454Z"}
+adminuser-backend-1   | info: Fetching article: Evaluation of efficacy and safety of pirfenidone 200 mg tablets in patients with idiopathic pulmonary fibrosis in a real-life setting. {"timestamp":"2025-02-20T06:49:56.456Z"}
+adminuser-backend-1   | info: Fetching article: GLPG1205 for idiopathic pulmonary fibrosis: a phase 2 randomised placebo-controlled trial. {"timestamp":"2025-02-20T06:49:56.457Z"}
+adminuser-backend-1   | info: Fetching article: Real world experience on the effectiveness and safety of pirfenidone in patients with idiopathic pulmonary fibrosis in Taiwan. {"timestamp":"2025-02-20T06:49:56.459Z"}
+adminuser-backend-1   | info: Fetching article: Inhibitor of PD-1/PD-L1: a new approach may be beneficial for the treatment of idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.461Z"}
+adminuser-backend-1   | info: Fetching article: Drug therapies for treatment of idiopathic pulmonary fibrosis: a systematic review, Bayesian network meta-analysis, and cost-effectiveness analysis. {"timestamp":"2025-02-20T06:49:56.462Z"}
+adminuser-backend-1   | info: Fetching article: Therapeutic Applications of Mesenchymal Stem Cells in Idiopathic Pulmonary Fibrosis. {"timestamp":"2025-02-20T06:49:56.463Z"}
+adminuser-backend-1   | info: Fetching article: A Randomized, Double-Blinded, Placebo-Controlled, Dose-Escalation Phase 1 Study of Aerosolized Pirfenidone Delivered via the PARI Investigational eFlow Nebulizer in Volunteers and Patients with Idiopathic Pulmonary Fibrosis. {"timestamp":"2025-02-20T06:49:56.465Z"}
+adminuser-backend-1   | info: Fetching article: Antacid Therapy and Disease Progression in Patients with Idiopathic Pulmonary Fibrosis Who Received Pirfenidone. {"timestamp":"2025-02-20T06:49:56.467Z"}
+adminuser-backend-1   | info: Fetching article: Pharmacological management of progressive-fibrosing interstitial lung diseases: a review of the current evidence. {"timestamp":"2025-02-20T06:49:56.468Z"}
+adminuser-backend-1   | info: Fetching article: Efficacy and Safety of Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis: An Update. {"timestamp":"2025-02-20T06:49:56.470Z"}
+adminuser-backend-1   | info: Fetching article: Changing the idiopathic pulmonary fibrosis treatment approach and improving patient outcomes. {"timestamp":"2025-02-20T06:49:56.471Z"}
+adminuser-backend-1   | info: Fetching article: Pirfenidone in idiopathic pulmonary fibrosis: expert panel discussion on the management of drug-related adverse events. {"timestamp":"2025-02-20T06:49:56.473Z"}
+adminuser-backend-1   | info: Fetching article: Treatment of progressive fibrosing interstitial lung diseases: a milestone in the management of interstitial lung diseases. {"timestamp":"2025-02-20T06:49:56.475Z"}
+adminuser-backend-1   | info: Fetching article: Antifibrotic therapy for idiopathic pulmonary fibrosis: time to treat. {"timestamp":"2025-02-20T06:49:56.476Z"}
+adminuser-backend-1   | info: Fetching article: Phase 2 trial to assess lebrikizumab in patients with idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.478Z"}
+adminuser-backend-1   | info: Fetching article: Nintedanib: evidence for its therapeutic potential in idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.479Z"}
+adminuser-backend-1   | info: Fetching article: Emerging potential treatments: new hope for idiopathic pulmonary fibrosis patients? {"timestamp":"2025-02-20T06:49:56.481Z"}
+adminuser-backend-1   | info: Fetching article: Long-Term Safety of Antifibrotic Drugs in IPF: A Real-World Experience. {"timestamp":"2025-02-20T06:49:56.482Z"}
+adminuser-backend-1   | info: Fetching article: Negative impact of anorexia and weight loss during prior pirfenidone administration on subsequent nintedanib treatment in patients with idiopathic pulmonary fibrosis. {"timestamp":"2025-02-20T06:49:56.484Z"}
+adminuser-backend-1   | info: Fetching article: Pirfenidone as a Cornerstone in the Management of Fibrotic Interstitial Lung Diseases and Its Emerging Applications: A Comprehensive Review. {"timestamp":"2025-02-20T06:49:56.486Z"}
+adminuser-backend-1   | info: Fetching article: Timing impact on the initiation of pirfenidone therapy on idiopathic pulmonary fibrosis disease progression. {"timestamp":"2025-02-20T06:49:56.488Z"}
+adminuser-backend-1   | info: Fetching article: Combination of losartan with pirfenidone: a protective anti-fibrotic against pulmonary fibrosis induced by bleomycin in rats. {"timestamp":"2025-02-20T06:49:56.489Z"}
+adminuser-backend-1   | info: No Open Access PDF found for: PMC8142468, {"_":"identifier 'PMC8142468' is not Open Access","$":{"code":"idIsNotOpenAccess"}} {"timestamp":"2025-02-20T06:49:56.747Z"}
+adminuser-backend-1   | info: Error processing article PMC8142468: TypeError: Cannot read properties of undefined (reading '0') {"timestamp":"2025-02-20T06:49:56.748Z"}
+adminuser-backend-1   | info: Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2f/2e/PMC10713318.tar.gz {"timestamp":"2025-02-20T06:49:56.751Z"}
+adminuser-backend-1   | info: Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3e/5d/PMC8548364.tar.gz {"timestamp":"2025-02-20T06:49:56.756Z"}
+adminuser-backend-1   | info: Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/81/PMC11351797.tar.gz {"timestamp":"2025-02-20T06:49:56.763Z"}
+adminuser-backend-1   | info: No Open Access PDF found for: PMC6783717, {"_":"identifier 'PMC6783717' is not Open Access","$":{"code":"idIsNotOpenAccess"}} {"timestamp":"2025-02-20T06:49:56.765Z"}
+adminuser-backend-1   | info: Error processing article PMC6783717: TypeError: Cannot read properties of undefined (reading '0') {"timestamp":"2025-02-20T06:49:56.765Z"}
+adminuser-backend-1   | info: Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/7c/PMC10329300.tar.gz {"timestamp":"2025-02-20T06:49:56.766Z"}
+adminuser-backend-1   | info: Extracting text from PDF: PMC8548364/fmed-08-743977.pdf {"timestamp":"2025-02-20T06:50:00.762Z"}
+adminuser-backend-1   | info: Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/8d/PMC10773730.tar.gz {"timestamp":"2025-02-20T06:50:01.434Z"}
+adminuser-backend-1   | info: Extracting text from PDF: PMC10329300/13075_2023_Article_3090.pdf {"timestamp":"2025-02-20T06:50:03.166Z"}
+adminuser-backend-1   | info: Extracting text from PDF: PMC11351797/rccm.202403-0636OC.pdf {"timestamp":"2025-02-20T06:50:03.666Z"}
+adminuser-backend-1   | info: Extracting text from PDF: PMC10773730/fphar-14-1301923.pdf {"timestamp":"2025-02-20T06:50:05.604Z"}
+adminuser-backend-1   | info: Extracting text from PDF: PMC10713318/jtd-15-11-5913-prf.pdf {"timestamp":"2025-02-20T06:50:06.365Z"}
+adminuser-backend-1   | info: Error processing article PMC11018867: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.330Z"}
+adminuser-backend-1   | info: Error processing article PMC11438636: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.331Z"}
+adminuser-backend-1   | info: Error processing article PMC11524648: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.332Z"}
+adminuser-backend-1   | info: Error processing article PMC6458823: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.332Z"}
+adminuser-backend-1   | info: Error processing article PMC9775369: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.333Z"}
+adminuser-backend-1   | info: Error processing article PMC9584115: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.333Z"}
+adminuser-backend-1   | info: Error processing article PMC4555978: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.334Z"}
+adminuser-backend-1   | info: Error processing article PMC7859504: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.334Z"}
+adminuser-backend-1   | info: Error processing article PMC6731623: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.335Z"}
+adminuser-backend-1   | info: Error processing article PMC9488849: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.336Z"}
+adminuser-backend-1   | info: Error processing article PMC4003341: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.336Z"}
+adminuser-backend-1   | info: Error processing article PMC9487299: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.336Z"}
+adminuser-backend-1   | info: Error processing article PMC5833905: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.337Z"}
+adminuser-backend-1   | info: Error processing article PMC9488647: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.337Z"}
+adminuser-backend-1   | info: Error processing article PMC5452370: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.338Z"}
+adminuser-backend-1   | info: Error processing article PMC7041323: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.338Z"}
+adminuser-backend-1   | info: Error processing article PMC7985078: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.339Z"}
+adminuser-backend-1   | info: Error processing article PMC10331814: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.339Z"}
+adminuser-backend-1   | info: Error processing article PMC10804569: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.339Z"}
+adminuser-backend-1   | info: Error processing article PMC10642852: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.340Z"}
+adminuser-backend-1   | info: Error processing article PMC9978158: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.340Z"}
+adminuser-backend-1   | info: Error processing article PMC10734858: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.341Z"}
+adminuser-backend-1   | info: Error processing article PMC11163030: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.341Z"}
+adminuser-backend-1   | info: Error processing article PMC9744780: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.342Z"}
+adminuser-backend-1   | info: Error processing article PMC7467484: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.342Z"}
+adminuser-backend-1   | info: Error processing article PMC3643400: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.342Z"}
+adminuser-backend-1   | info: Error processing article PMC9487763: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.343Z"}
+adminuser-backend-1   | info: Error processing article PMC10632947: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.343Z"}
+adminuser-backend-1   | info: Error processing article PMC6992179: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.344Z"}
+adminuser-backend-1   | info: Error processing article PMC6304353: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.344Z"}
+adminuser-backend-1   | info: Error processing article PMC7569556: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.345Z"}
+adminuser-backend-1   | info: Error processing article PMC5039481: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.345Z"}
+adminuser-backend-1   | info: Error processing article PMC11175405: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.346Z"}
+adminuser-backend-1   | info: Error processing article PMC10034822: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.346Z"}
+adminuser-backend-1   | info: Error processing article PMC7204217: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.347Z"}
+adminuser-backend-1   | info: Error processing article PMC6630358: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.347Z"}
+adminuser-backend-1   | info: Error processing article PMC7213901: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.347Z"}
+adminuser-backend-1   | info: Error processing article PMC3968083: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.349Z"}
+adminuser-backend-1   | info: Error processing article PMC9148498: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.349Z"}
+adminuser-backend-1   | info: Error processing article PMC10170340: Error: connect ETIMEDOUT 130.14.29.110:443 {"timestamp":"2025-02-20T06:52:06.350Z"}
+adminuser-backend-1   | info: Done fetching and processing PubMed data. Total PDFs processed: 0 {"timestamp":"2025-02-20T06:52:06.350Z"}
+adminuser-backend-1   | info: Started document Embedding {"timestamp":"2025-02-20T06:52:06.350Z"}
+adminuser-backend-1   | Embedding generation starts
+adminuser-backend-1   | Embedding generation ends
+adminuser-backend-1   | Insert failed for batch: error: no pg_hba.conf entry for host "10.0.4.4", user "admincolonis", database "postgres", no encryption
+adminuser-backend-1   |     at /app/node_modules/pg-pool/index.js:45:11
+adminuser-backend-1   |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+adminuser-backend-1   |     at async DbClient.query (/app/src/utils/db.js:40:20)
+adminuser-backend-1   |     at async insertEmbeddings (/app/src/services/db/embedding.js:102:5)
+adminuser-backend-1   |     at async exports.createChat (/app/src/controllers/chat.controller.js:322:9) {
+adminuser-backend-1   |   length: 160,
+adminuser-backend-1   |   severity: 'FATAL',
+adminuser-backend-1   |   code: '28000',
+adminuser-backend-1   |   detail: undefined,
+adminuser-backend-1   |   hint: undefined,
+adminuser-backend-1   |   position: undefined,
+adminuser-backend-1   |   internalPosition: undefined,
+adminuser-backend-1   |   internalQuery: undefined,
+adminuser-backend-1   |   where: undefined,
+adminuser-backend-1   |   schema: undefined,
+adminuser-backend-1   |   table: undefined,
+adminuser-backend-1   |   column: undefined,
+adminuser-backend-1   |   dataType: undefined,
+adminuser-backend-1   |   constraint: undefined,
+adminuser-backend-1   |   file: 'auth.c',
+adminuser-backend-1   |   line: '630',
+adminuser-backend-1   |   routine: 'ClientAuthentication'
+adminuser-backend-1   | }
+adminuser-backend-1   | error: Error: Partial insert failure: no pg_hba.conf entry for host "10.0.4.4", user "admincolonis", database "postgres", no encryption
+adminuser-backend-1   |     at insertEmbeddings (/app/src/services/db/embedding.js:109:11)
+adminuser-backend-1   |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+adminuser-backend-1   |     at async exports.createChat (/app/src/controllers/chat.controller.js:322:9) {"timestamp":"2025-02-20T06:52:10.795Z"}
+adminuser-backend-1   | [0mPOST /api/chat [31m500[0m 136694.482 ms - 35[0m
