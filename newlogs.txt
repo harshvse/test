@@ -1,556 +1,96 @@
-{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-21T10:56:26.707Z"}
-{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic \"","timestamp":"2025-02-21T11:02:51.232Z"}
-{"level":"info","message":"Found 47 articles.","timestamp":"2025-02-21T11:02:53.406Z"}
-{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Disease mechanisms and drug development.","timestamp":"2025-02-21T11:02:53.407Z"}
-{"level":"info","message":"Fetching article: Pharmacotherapy and adjunctive treatment for idiopathic pulmonary fibrosis (IPF).","timestamp":"2025-02-21T11:02:53.410Z"}
-{"level":"info","message":"Fetching article: Management of Progressive Fibrosing Interstitial Lung Diseases (PF-ILD).","timestamp":"2025-02-21T11:02:53.412Z"}
-{"level":"info","message":"Fetching article: Learnings from clinical trials in patients with connective tissue disease-associated interstitial lung disease.","timestamp":"2025-02-21T11:02:53.414Z"}
-{"level":"info","message":"Fetching article: Safety and tolerability of combination treatment with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis: a systematic review and meta-analysis.","timestamp":"2025-02-21T11:02:53.416Z"}
-{"level":"info","message":"Fetching article: Efficacy and safety of combination therapy with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.418Z"}
-{"level":"info","message":"Fetching article: Bexotegrast in Patients with Idiopathic Pulmonary Fibrosis: The INTEGRIS-IPF Clinical Trial.","timestamp":"2025-02-21T11:02:53.419Z"}
-{"level":"info","message":"Fetching article: Ziritaxestat, a Novel Autotaxin Inhibitor, and Lung Function in Idiopathic Pulmonary Fibrosis: The ISABELA 1 and 2 Randomized Clinical Trials.","timestamp":"2025-02-21T11:02:53.422Z"}
-{"level":"info","message":"Fetching article: Safety and tolerability of pirfenidone in asbestosis: a prospective multicenter study.","timestamp":"2025-02-21T11:02:53.424Z"}
-{"level":"info","message":"Fetching article: Efficacy and safety of pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.426Z"}
-{"level":"info","message":"Fetching article: Updated Evaluation of the Safety, Efficacy and Tolerability of Pirfenidone in the Treatment of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:02:53.428Z"}
-{"level":"info","message":"Fetching article: Differences in tolerability of pirfenidone between elderly and younger patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.430Z"}
-{"level":"info","message":"Fetching article: Efficacy, safety, and tolerability of combined pirfenidone and N-acetylcysteine therapy: a systematic review and meta-analysis.","timestamp":"2025-02-21T11:02:53.432Z"}
-{"level":"info","message":"Fetching article: Nintedanib and pirfenidone for idiopathic pulmonary fibrosis in King Abdulaziz Medical City, Riyadh: Real-life data.","timestamp":"2025-02-21T11:02:53.433Z"}
-{"level":"info","message":"Fetching article: Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.435Z"}
-{"level":"info","message":"Fetching article: Real World Experiences: Pirfenidone and Nintedanib are Effective and Well Tolerated Treatments for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:02:53.436Z"}
-{"level":"info","message":"Fetching article: A real-world study of the dosing and tolerability of pirfenidone and its effect on survival in idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.438Z"}
-{"level":"info","message":"Fetching article: South-West of England's Experience of the Safety and Tolerability Pirfenidone and Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis (IPF).","timestamp":"2025-02-21T11:02:53.440Z"}
-{"level":"info","message":"Fetching article: Real-world experiences: Efficacy and tolerability of pirfenidone in clinical practice.","timestamp":"2025-02-21T11:02:53.441Z"}
-{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Addressing the current and future therapeutic advances along with the role of Sotatercept in the management of pulmonary hypertension.","timestamp":"2025-02-21T11:02:53.443Z"}
-{"level":"info","message":"Fetching article: Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.446Z"}
-{"level":"info","message":"Fetching article: The role of pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.447Z"}
-{"level":"info","message":"Fetching article: Safety and Efficacy of Pirfenidone in Advanced Idiopathic Pulmonary Fibrosis: A Nationwide Post-Marketing Surveillance Study in Korean Patients.","timestamp":"2025-02-21T11:02:53.449Z"}
-{"level":"info","message":"Fetching article: Analysis of the safety and efficacy of different plasma concentrations of pirfenidone in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.450Z"}
-{"level":"info","message":"Fetching article: Comparison of the safety profiles for pirfenidone and nintedanib: a disproportionality analysis of the US food and drug administration adverse event reporting system.","timestamp":"2025-02-21T11:02:53.451Z"}
-{"level":"info","message":"Fetching article: Evaluation of efficacy and safety of pirfenidone 200 mg tablets in patients with idiopathic pulmonary fibrosis in a real-life setting.","timestamp":"2025-02-21T11:02:53.453Z"}
-{"level":"info","message":"Fetching article: GLPG1205 for idiopathic pulmonary fibrosis: a phase 2 randomised placebo-controlled trial.","timestamp":"2025-02-21T11:02:53.454Z"}
-{"level":"info","message":"Fetching article: Real world experience on the effectiveness and safety of pirfenidone in patients with idiopathic pulmonary fibrosis in Taiwan.","timestamp":"2025-02-21T11:02:53.456Z"}
-{"level":"info","message":"Fetching article: Inhibitor of PD-1/PD-L1: a new approach may be beneficial for the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.457Z"}
-{"level":"info","message":"Fetching article: Drug therapies for treatment of idiopathic pulmonary fibrosis: a systematic review, Bayesian network meta-analysis, and cost-effectiveness analysis.","timestamp":"2025-02-21T11:02:53.458Z"}
-{"level":"info","message":"Fetching article: Therapeutic Applications of Mesenchymal Stem Cells in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:02:53.460Z"}
-{"level":"info","message":"Fetching article: A Randomized, Double-Blinded, Placebo-Controlled, Dose-Escalation Phase 1 Study of Aerosolized Pirfenidone Delivered via the PARI Investigational eFlow Nebulizer in Volunteers and Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:02:53.461Z"}
-{"level":"info","message":"Fetching article: Antacid Therapy and Disease Progression in Patients with Idiopathic Pulmonary Fibrosis Who Received Pirfenidone.","timestamp":"2025-02-21T11:02:53.463Z"}
-{"level":"info","message":"Fetching article: Pharmacological management of progressive-fibrosing interstitial lung diseases: a review of the current evidence.","timestamp":"2025-02-21T11:02:53.465Z"}
-{"level":"info","message":"Fetching article: Efficacy and Safety of Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis: An Update.","timestamp":"2025-02-21T11:02:53.467Z"}
-{"level":"info","message":"Fetching article: Changing the idiopathic pulmonary fibrosis treatment approach and improving patient outcomes.","timestamp":"2025-02-21T11:02:53.468Z"}
-{"level":"info","message":"Fetching article: Pirfenidone in idiopathic pulmonary fibrosis: expert panel discussion on the management of drug-related adverse events.","timestamp":"2025-02-21T11:02:53.470Z"}
-{"level":"info","message":"Fetching article: Treatment of progressive fibrosing interstitial lung diseases: a milestone in the management of interstitial lung diseases.","timestamp":"2025-02-21T11:02:53.472Z"}
-{"level":"info","message":"Fetching article: Antifibrotic therapy for idiopathic pulmonary fibrosis: time to treat.","timestamp":"2025-02-21T11:02:53.473Z"}
-{"level":"info","message":"Fetching article: Phase 2 trial to assess lebrikizumab in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.474Z"}
-{"level":"info","message":"Fetching article: Nintedanib: evidence for its therapeutic potential in idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.475Z"}
-{"level":"info","message":"Fetching article: Emerging potential treatments: new hope for idiopathic pulmonary fibrosis patients?","timestamp":"2025-02-21T11:02:53.477Z"}
-{"level":"info","message":"Fetching article: Long-Term Safety of Antifibrotic Drugs in IPF: A Real-World Experience.","timestamp":"2025-02-21T11:02:53.478Z"}
-{"level":"info","message":"Fetching article: Negative impact of anorexia and weight loss during prior pirfenidone administration on subsequent nintedanib treatment in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:02:53.479Z"}
-{"level":"info","message":"Fetching article: Pirfenidone as a Cornerstone in the Management of Fibrotic Interstitial Lung Diseases and Its Emerging Applications: A Comprehensive Review.","timestamp":"2025-02-21T11:02:53.481Z"}
-{"level":"info","message":"Fetching article: Timing impact on the initiation of pirfenidone therapy on idiopathic pulmonary fibrosis disease progression.","timestamp":"2025-02-21T11:02:53.482Z"}
-{"level":"info","message":"Fetching article: Combination of losartan with pirfenidone: a protective anti-fibrotic against pulmonary fibrosis induced by bleomycin in rats.","timestamp":"2025-02-21T11:02:53.483Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/81/PMC11351797.tar.gz","timestamp":"2025-02-21T11:02:53.900Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2f/2e/PMC10713318.tar.gz","timestamp":"2025-02-21T11:02:53.902Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3e/5d/PMC8548364.tar.gz","timestamp":"2025-02-21T11:02:53.904Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC6783717, {\"_\":\"identifier 'PMC6783717' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:02:53.905Z"}
-{"level":"info","message":"Error processing article PMC6783717: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:02:53.905Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a9/2e/PMC5039481.tar.gz","timestamp":"2025-02-21T11:02:53.906Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/14/da/PMC6304353.tar.gz","timestamp":"2025-02-21T11:02:53.908Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/52/31/PMC7467484.tar.gz","timestamp":"2025-02-21T11:02:53.909Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/8d/PMC10773730.tar.gz","timestamp":"2025-02-21T11:02:53.910Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/7c/PMC10329300.tar.gz","timestamp":"2025-02-21T11:02:53.912Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/49/d4/PMC7204217.tar.gz","timestamp":"2025-02-21T11:02:53.919Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC8142468, {\"_\":\"identifier 'PMC8142468' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:02:53.920Z"}
-{"level":"info","message":"Error processing article PMC8142468: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:02:53.920Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3d/14/PMC6630358.tar.gz","timestamp":"2025-02-21T11:02:53.921Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/26/9a/PMC3968083.tar.gz","timestamp":"2025-02-21T11:02:53.922Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0d/ff/PMC9744780.tar.gz","timestamp":"2025-02-21T11:02:53.926Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f4/9e/PMC9148498.tar.gz","timestamp":"2025-02-21T11:02:53.927Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/52/7f/PMC11175405.tar.gz","timestamp":"2025-02-21T11:02:53.928Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/76/36/PMC6992179.tar.gz","timestamp":"2025-02-21T11:02:53.929Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c6/96/PMC7569556.tar.gz","timestamp":"2025-02-21T11:02:53.930Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3d/77/PMC11163030.tar.gz","timestamp":"2025-02-21T11:02:53.931Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d4/c1/PMC7213901.tar.gz","timestamp":"2025-02-21T11:02:53.933Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/2f/PMC10034822.tar.gz","timestamp":"2025-02-21T11:02:53.935Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC10170340, {\"_\":\"identifier 'PMC10170340' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:02:53.936Z"}
-{"level":"info","message":"Error processing article PMC10170340: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:02:53.937Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/6d/51/PMC10331814.tar.gz","timestamp":"2025-02-21T11:02:53.937Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/da/ae/PMC10632947.tar.gz","timestamp":"2025-02-21T11:02:53.938Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/83/PMC9978158.tar.gz","timestamp":"2025-02-21T11:02:53.940Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0a/4c/PMC10734858.tar.gz","timestamp":"2025-02-21T11:02:53.944Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/44/95/PMC10804569.tar.gz","timestamp":"2025-02-21T11:02:53.945Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d5/9e/PMC3643400.tar.gz","timestamp":"2025-02-21T11:02:53.947Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b6/75/PMC7985078.tar.gz","timestamp":"2025-02-21T11:02:53.953Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/fb/53/PMC7041323.tar.gz","timestamp":"2025-02-21T11:02:53.954Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b0/3b/PMC9488647.tar.gz","timestamp":"2025-02-21T11:02:53.956Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC5452370, {\"_\":\"identifier 'PMC5452370' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:02:53.957Z"}
-{"level":"info","message":"Error processing article PMC5452370: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:02:53.957Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4f/6d/PMC9775369.tar.gz","timestamp":"2025-02-21T11:02:53.964Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/48/f7/PMC5833905.tar.gz","timestamp":"2025-02-21T11:02:53.966Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f7/53/PMC11438636.tar.gz","timestamp":"2025-02-21T11:02:53.967Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a0/67/PMC4003341.tar.gz","timestamp":"2025-02-21T11:02:53.968Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC9584115, {\"_\":\"identifier 'PMC9584115' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:02:53.969Z"}
-{"level":"info","message":"Error processing article PMC9584115: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:02:53.969Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/87/51/PMC11018867.tar.gz","timestamp":"2025-02-21T11:02:53.969Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ed/28/PMC4555978.tar.gz","timestamp":"2025-02-21T11:02:53.971Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/71/ef/PMC9488849.tar.gz","timestamp":"2025-02-21T11:02:53.972Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC9487299, {\"_\":\"identifier 'PMC9487299' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:02:53.973Z"}
-{"level":"info","message":"Error processing article PMC9487299: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:02:53.973Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9e/df/PMC6731623.tar.gz","timestamp":"2025-02-21T11:02:53.974Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/45/32/PMC11524648.tar.gz","timestamp":"2025-02-21T11:02:53.975Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/27/3e/PMC6458823.tar.gz","timestamp":"2025-02-21T11:02:53.976Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d9/29/PMC7859504.tar.gz","timestamp":"2025-02-21T11:02:53.977Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/01/c3/PMC9487763.tar.gz","timestamp":"2025-02-21T11:02:53.980Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b7/ad/PMC10642852.tar.gz","timestamp":"2025-02-21T11:02:53.982Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7041323/jamp.2018.1507.pdf","timestamp":"2025-02-21T11:02:55.232Z"}
-{"level":"info","message":"Extracting text from PDF: PMC8548364/fmed-08-743977.pdf","timestamp":"2025-02-21T11:02:55.637Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3643400/1465-9921-14-S1-S5.pdf","timestamp":"2025-02-21T11:02:55.793Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11524648/cureus-0016-00000070497.pdf","timestamp":"2025-02-21T11:02:56.078Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7213901/dhps-12-85.pdf","timestamp":"2025-02-21T11:02:56.221Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10734858/turkjmedsci-51-6-3082.pdf","timestamp":"2025-02-21T11:02:56.434Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11438636/WJCC-12-6538.pdf","timestamp":"2025-02-21T11:02:56.645Z"}
-{"level":"info","message":"Extracting text from PDF: PMC5833905/40268_2017_Article_221.pdf","timestamp":"2025-02-21T11:02:56.784Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9488849/ERR-0109-2019.pdf","timestamp":"2025-02-21T11:02:56.869Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9488647/ERR-0074-2018.pdf","timestamp":"2025-02-21T11:02:56.986Z"}
-{"level":"info","message":"Extracting text from PDF: PMC4555978/ce-10-089.pdf","timestamp":"2025-02-21T11:02:57.170Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10034822/ATM-18-45.pdf","timestamp":"2025-02-21T11:02:57.442Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6630358/dddt-13-2295.pdf","timestamp":"2025-02-21T11:02:57.544Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7569556/SVDLD-37-148.pdf","timestamp":"2025-02-21T11:02:57.656Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10329300/13075_2023_Article_3090.pdf","timestamp":"2025-02-21T11:02:57.909Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6458823/12890_2019_Article_841.pdf","timestamp":"2025-02-21T11:02:58.110Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10713318/jtd-15-11-5913-prf.pdf","timestamp":"2025-02-21T11:02:58.160Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7985078/fcell-09-639657.pdf","timestamp":"2025-02-21T11:02:58.323Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9148498/12931_2022_Article_2061.pdf","timestamp":"2025-02-21T11:02:58.486Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10773730/fphar-14-1301923.pdf","timestamp":"2025-02-21T11:02:58.573Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3968083/ppa-8-361.pdf","timestamp":"2025-02-21T11:02:58.794Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9744780/fphar-13-1055702.pdf","timestamp":"2025-02-21T11:02:58.923Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10804569/12967_2024_Article_4884.pdf","timestamp":"2025-02-21T11:02:59.181Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9775369/biomedicines-10-03229.pdf","timestamp":"2025-02-21T11:02:59.333Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10632947/IID3-11-e1079.pdf","timestamp":"2025-02-21T11:02:59.495Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6731623/12931_2019_Article_1161.pdf","timestamp":"2025-02-21T11:02:59.647Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11163030/fphar-15-1256649.pdf","timestamp":"2025-02-21T11:02:59.754Z"}
-{"level":"info","message":"Extracting text from PDF: PMC4003341/12325_2014_Article_112.pdf","timestamp":"2025-02-21T11:02:59.881Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10642852/fmed-10-1242260.pdf","timestamp":"2025-02-21T11:02:59.997Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9978158/ERJ-01794-2022.Shareable.pdf","timestamp":"2025-02-21T11:03:00.034Z"}
-{"level":"info","message":"Extracting text from PDF: PMC5039481/jcm-05-00078.pdf","timestamp":"2025-02-21T11:03:00.361Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6992179/pone.0228390.pdf","timestamp":"2025-02-21T11:03:00.589Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11175405/pone.0305429.pdf","timestamp":"2025-02-21T11:03:00.810Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7467484/12325_2020_Article_1328.pdf","timestamp":"2025-02-21T11:03:00.906Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7859504/ERJ-02442-2019.Shareable.pdf","timestamp":"2025-02-21T11:03:00.924Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7204217/12890_2020_Article_1121.pdf","timestamp":"2025-02-21T11:03:01.073Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11351797/rccm.202403-0636OC.pdf","timestamp":"2025-02-21T11:03:01.235Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9487763/ERR-0115-2014_Maher.pdf","timestamp":"2025-02-21T11:03:01.241Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6304353/fphar-09-01480.pdf","timestamp":"2025-02-21T11:03:01.349Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11018867/41598_2024_Article_59395.pdf","timestamp":"2025-02-21T11:03:01.724Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10331814/main.pdf","timestamp":"2025-02-21T11:03:01.937Z"}
-{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-21T11:03:01.937Z"}
-{"level":"info","message":"Started document Embedding","timestamp":"2025-02-21T11:03:01.938Z"}
-{"level":"error","message":"Error: Processing failed: Connection error.\n    at processDocument (/app/src/services/embedding.service.js:323:11)\n    at async exports.createChat (/app/src/controllers/chat.controller.js:304:34)","timestamp":"2025-02-21T11:04:15.157Z"}
-{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic in Italy\"","timestamp":"2025-02-21T11:05:22.197Z"}
-{"level":"info","message":"Found 13 articles.","timestamp":"2025-02-21T11:05:24.112Z"}
-{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Disease mechanisms and drug development.","timestamp":"2025-02-21T11:05:24.113Z"}
-{"level":"info","message":"Fetching article: Pirfenidone in idiopathic pulmonary fibrosis: real-life experience in the referral centre of Siena.","timestamp":"2025-02-21T11:05:24.115Z"}
-{"level":"info","message":"Fetching article: Effect of pirfenidone in patients with more advanced idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:05:24.118Z"}
-{"level":"info","message":"Fetching article: Overview on the Link Between the Complement System and Auto-Immune Articular and Pulmonary Disease.","timestamp":"2025-02-21T11:05:24.120Z"}
-{"level":"info","message":"Fetching article: Pharmacological management of progressive-fibrosing interstitial lung diseases: a review of the current evidence.","timestamp":"2025-02-21T11:05:24.121Z"}
-{"level":"info","message":"Fetching article: GED-0507 attenuates lung fibrosis by counteracting myofibroblast transdifferentiation in vivo and in vitro.","timestamp":"2025-02-21T11:05:24.123Z"}
-{"level":"info","message":"Fetching article: The Management of Patients With Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:05:24.126Z"}
-{"level":"info","message":"Fetching article: Long-Term Safety of Antifibrotic Drugs in IPF: A Real-World Experience.","timestamp":"2025-02-21T11:05:24.127Z"}
-{"level":"info","message":"Fetching article: Safety of pirfenidone in patients with idiopathic pulmonary fibrosis: integrated analysis of cumulative data from 5 clinical trials.","timestamp":"2025-02-21T11:05:24.130Z"}
-{"level":"info","message":"Fetching article: Where do we stand with IPF treatment?","timestamp":"2025-02-21T11:05:24.132Z"}
-{"level":"info","message":"Fetching article: Possible value of antifibrotic drugs in patients with progressive fibrosing non-IPF interstitial lung diseases.","timestamp":"2025-02-21T11:05:24.134Z"}
-{"level":"info","message":"Fetching article: Long-Term Follow-Up of Patients With Idiopathic Pulmonary Fibrosis Treated With Pirfenidone or Nintedanib: A Real-Life Comparison Study.","timestamp":"2025-02-21T11:05:24.136Z"}
-{"level":"info","message":"Fetching article: Gender Differences Are a Leading Factor in 5-Year Survival of Patients with Idiopathic Pulmonary Fibrosis over Antifibrotic Therapy Reduction.","timestamp":"2025-02-21T11:05:24.138Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC8142468, {\"_\":\"identifier 'PMC8142468' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:05:24.391Z"}
-{"level":"info","message":"Error processing article PMC8142468: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:05:24.392Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/95/41/PMC10198272.tar.gz","timestamp":"2025-02-21T11:05:24.397Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9f/74/PMC7029533.tar.gz","timestamp":"2025-02-21T11:05:24.431Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/87/cd/PMC3643087.tar.gz","timestamp":"2025-02-21T11:05:24.433Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d0/60/PMC8445472.tar.gz","timestamp":"2025-02-21T11:05:24.438Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b4/fb/PMC7498677.tar.gz","timestamp":"2025-02-21T11:05:24.452Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8a/f7/PMC6036121.tar.gz","timestamp":"2025-02-21T11:05:24.454Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3a/e4/PMC6852748.tar.gz","timestamp":"2025-02-21T11:05:24.470Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8e/8c/PMC4716177.tar.gz","timestamp":"2025-02-21T11:05:24.472Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/26/9f/PMC6416878.tar.gz","timestamp":"2025-02-21T11:05:24.474Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4f/6d/PMC9775369.tar.gz","timestamp":"2025-02-21T11:05:24.476Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b0/3b/PMC9488647.tar.gz","timestamp":"2025-02-21T11:05:24.478Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/44/99/PMC11766819.tar.gz","timestamp":"2025-02-21T11:05:24.481Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3643087/1465-9921-14-S1-S7.pdf","timestamp":"2025-02-21T11:05:25.296Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6416878/12931_2019_Article_1021.pdf","timestamp":"2025-02-21T11:05:25.533Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9488647/ERR-0074-2018.pdf","timestamp":"2025-02-21T11:05:25.779Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7498677/fmolb-07-581828.pdf","timestamp":"2025-02-21T11:05:25.972Z"}
-{"level":"info","message":"Extracting text from PDF: PMC4716177/bmjresp-2015-000105.pdf","timestamp":"2025-02-21T11:05:26.096Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6036121/fmed-05-00148.pdf","timestamp":"2025-02-21T11:05:26.281Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11766819/life-15-00106.pdf","timestamp":"2025-02-21T11:05:26.536Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9775369/biomedicines-10-03229.pdf","timestamp":"2025-02-21T11:05:26.682Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10198272/oarrr-15-65.pdf","timestamp":"2025-02-21T11:05:26.968Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7029533/10.1177_1753466620906326.pdf","timestamp":"2025-02-21T11:05:27.162Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6852748/12890_2019_Article_937.pdf","timestamp":"2025-02-21T11:05:27.299Z"}
-{"level":"info","message":"Extracting text from PDF: PMC8445472/pone.0257281.s006.pdf","timestamp":"2025-02-21T11:05:27.551Z"}
-{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-21T11:05:27.552Z"}
-{"level":"info","message":"Started document Embedding","timestamp":"2025-02-21T11:05:27.552Z"}
-{"level":"error","message":"Error: Processing failed: Connection error.\n    at processDocument (/app/src/services/embedding.service.js:323:11)\n    at async exports.createChat (/app/src/controllers/chat.controller.js:304:34)","timestamp":"2025-02-21T11:06:49.800Z"}
-{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic \"","timestamp":"2025-02-21T11:07:43.670Z"}
-{"level":"info","message":"Found 47 articles.","timestamp":"2025-02-21T11:07:45.545Z"}
-{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Disease mechanisms and drug development.","timestamp":"2025-02-21T11:07:45.545Z"}
-{"level":"info","message":"Fetching article: Pharmacotherapy and adjunctive treatment for idiopathic pulmonary fibrosis (IPF).","timestamp":"2025-02-21T11:07:45.548Z"}
-{"level":"info","message":"Fetching article: Management of Progressive Fibrosing Interstitial Lung Diseases (PF-ILD).","timestamp":"2025-02-21T11:07:45.551Z"}
-{"level":"info","message":"Fetching article: Learnings from clinical trials in patients with connective tissue disease-associated interstitial lung disease.","timestamp":"2025-02-21T11:07:45.553Z"}
-{"level":"info","message":"Fetching article: Safety and tolerability of combination treatment with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis: a systematic review and meta-analysis.","timestamp":"2025-02-21T11:07:45.555Z"}
-{"level":"info","message":"Fetching article: Efficacy and safety of combination therapy with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.557Z"}
-{"level":"info","message":"Fetching article: Bexotegrast in Patients with Idiopathic Pulmonary Fibrosis: The INTEGRIS-IPF Clinical Trial.","timestamp":"2025-02-21T11:07:45.559Z"}
-{"level":"info","message":"Fetching article: Ziritaxestat, a Novel Autotaxin Inhibitor, and Lung Function in Idiopathic Pulmonary Fibrosis: The ISABELA 1 and 2 Randomized Clinical Trials.","timestamp":"2025-02-21T11:07:45.560Z"}
-{"level":"info","message":"Fetching article: Safety and tolerability of pirfenidone in asbestosis: a prospective multicenter study.","timestamp":"2025-02-21T11:07:45.563Z"}
-{"level":"info","message":"Fetching article: Efficacy and safety of pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.565Z"}
-{"level":"info","message":"Fetching article: Updated Evaluation of the Safety, Efficacy and Tolerability of Pirfenidone in the Treatment of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:07:45.567Z"}
-{"level":"info","message":"Fetching article: Differences in tolerability of pirfenidone between elderly and younger patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.569Z"}
-{"level":"info","message":"Fetching article: Efficacy, safety, and tolerability of combined pirfenidone and N-acetylcysteine therapy: a systematic review and meta-analysis.","timestamp":"2025-02-21T11:07:45.570Z"}
-{"level":"info","message":"Fetching article: Nintedanib and pirfenidone for idiopathic pulmonary fibrosis in King Abdulaziz Medical City, Riyadh: Real-life data.","timestamp":"2025-02-21T11:07:45.572Z"}
-{"level":"info","message":"Fetching article: Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.574Z"}
-{"level":"info","message":"Fetching article: Real World Experiences: Pirfenidone and Nintedanib are Effective and Well Tolerated Treatments for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:07:45.576Z"}
-{"level":"info","message":"Fetching article: A real-world study of the dosing and tolerability of pirfenidone and its effect on survival in idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.578Z"}
-{"level":"info","message":"Fetching article: South-West of England's Experience of the Safety and Tolerability Pirfenidone and Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis (IPF).","timestamp":"2025-02-21T11:07:45.580Z"}
-{"level":"info","message":"Fetching article: Real-world experiences: Efficacy and tolerability of pirfenidone in clinical practice.","timestamp":"2025-02-21T11:07:45.582Z"}
-{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Addressing the current and future therapeutic advances along with the role of Sotatercept in the management of pulmonary hypertension.","timestamp":"2025-02-21T11:07:45.584Z"}
-{"level":"info","message":"Fetching article: Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.586Z"}
-{"level":"info","message":"Fetching article: The role of pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.588Z"}
-{"level":"info","message":"Fetching article: Safety and Efficacy of Pirfenidone in Advanced Idiopathic Pulmonary Fibrosis: A Nationwide Post-Marketing Surveillance Study in Korean Patients.","timestamp":"2025-02-21T11:07:45.590Z"}
-{"level":"info","message":"Fetching article: Analysis of the safety and efficacy of different plasma concentrations of pirfenidone in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.592Z"}
-{"level":"info","message":"Fetching article: Comparison of the safety profiles for pirfenidone and nintedanib: a disproportionality analysis of the US food and drug administration adverse event reporting system.","timestamp":"2025-02-21T11:07:45.594Z"}
-{"level":"info","message":"Fetching article: Evaluation of efficacy and safety of pirfenidone 200 mg tablets in patients with idiopathic pulmonary fibrosis in a real-life setting.","timestamp":"2025-02-21T11:07:45.596Z"}
-{"level":"info","message":"Fetching article: GLPG1205 for idiopathic pulmonary fibrosis: a phase 2 randomised placebo-controlled trial.","timestamp":"2025-02-21T11:07:45.598Z"}
-{"level":"info","message":"Fetching article: Real world experience on the effectiveness and safety of pirfenidone in patients with idiopathic pulmonary fibrosis in Taiwan.","timestamp":"2025-02-21T11:07:45.600Z"}
-{"level":"info","message":"Fetching article: Inhibitor of PD-1/PD-L1: a new approach may be beneficial for the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.602Z"}
-{"level":"info","message":"Fetching article: Drug therapies for treatment of idiopathic pulmonary fibrosis: a systematic review, Bayesian network meta-analysis, and cost-effectiveness analysis.","timestamp":"2025-02-21T11:07:45.604Z"}
-{"level":"info","message":"Fetching article: Therapeutic Applications of Mesenchymal Stem Cells in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:07:45.606Z"}
-{"level":"info","message":"Fetching article: A Randomized, Double-Blinded, Placebo-Controlled, Dose-Escalation Phase 1 Study of Aerosolized Pirfenidone Delivered via the PARI Investigational eFlow Nebulizer in Volunteers and Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:07:45.608Z"}
-{"level":"info","message":"Fetching article: Antacid Therapy and Disease Progression in Patients with Idiopathic Pulmonary Fibrosis Who Received Pirfenidone.","timestamp":"2025-02-21T11:07:45.610Z"}
-{"level":"info","message":"Fetching article: Pharmacological management of progressive-fibrosing interstitial lung diseases: a review of the current evidence.","timestamp":"2025-02-21T11:07:45.612Z"}
-{"level":"info","message":"Fetching article: Efficacy and Safety of Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis: An Update.","timestamp":"2025-02-21T11:07:45.614Z"}
-{"level":"info","message":"Fetching article: Changing the idiopathic pulmonary fibrosis treatment approach and improving patient outcomes.","timestamp":"2025-02-21T11:07:45.616Z"}
-{"level":"info","message":"Fetching article: Pirfenidone in idiopathic pulmonary fibrosis: expert panel discussion on the management of drug-related adverse events.","timestamp":"2025-02-21T11:07:45.618Z"}
-{"level":"info","message":"Fetching article: Treatment of progressive fibrosing interstitial lung diseases: a milestone in the management of interstitial lung diseases.","timestamp":"2025-02-21T11:07:45.620Z"}
-{"level":"info","message":"Fetching article: Antifibrotic therapy for idiopathic pulmonary fibrosis: time to treat.","timestamp":"2025-02-21T11:07:45.622Z"}
-{"level":"info","message":"Fetching article: Phase 2 trial to assess lebrikizumab in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.624Z"}
-{"level":"info","message":"Fetching article: Nintedanib: evidence for its therapeutic potential in idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.626Z"}
-{"level":"info","message":"Fetching article: Emerging potential treatments: new hope for idiopathic pulmonary fibrosis patients?","timestamp":"2025-02-21T11:07:45.628Z"}
-{"level":"info","message":"Fetching article: Long-Term Safety of Antifibrotic Drugs in IPF: A Real-World Experience.","timestamp":"2025-02-21T11:07:45.629Z"}
-{"level":"info","message":"Fetching article: Negative impact of anorexia and weight loss during prior pirfenidone administration on subsequent nintedanib treatment in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:07:45.631Z"}
-{"level":"info","message":"Fetching article: Pirfenidone as a Cornerstone in the Management of Fibrotic Interstitial Lung Diseases and Its Emerging Applications: A Comprehensive Review.","timestamp":"2025-02-21T11:07:45.633Z"}
-{"level":"info","message":"Fetching article: Timing impact on the initiation of pirfenidone therapy on idiopathic pulmonary fibrosis disease progression.","timestamp":"2025-02-21T11:07:45.635Z"}
-{"level":"info","message":"Fetching article: Combination of losartan with pirfenidone: a protective anti-fibrotic against pulmonary fibrosis induced by bleomycin in rats.","timestamp":"2025-02-21T11:07:45.637Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a9/2e/PMC5039481.tar.gz","timestamp":"2025-02-21T11:07:46.027Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/01/c3/PMC9487763.tar.gz","timestamp":"2025-02-21T11:07:46.029Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/49/d4/PMC7204217.tar.gz","timestamp":"2025-02-21T11:07:46.030Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/76/36/PMC6992179.tar.gz","timestamp":"2025-02-21T11:07:46.032Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/da/ae/PMC10632947.tar.gz","timestamp":"2025-02-21T11:07:46.033Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2f/2e/PMC10713318.tar.gz","timestamp":"2025-02-21T11:07:46.034Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/8d/PMC10773730.tar.gz","timestamp":"2025-02-21T11:07:46.035Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3d/14/PMC6630358.tar.gz","timestamp":"2025-02-21T11:07:46.037Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/26/9a/PMC3968083.tar.gz","timestamp":"2025-02-21T11:07:46.042Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/81/PMC11351797.tar.gz","timestamp":"2025-02-21T11:07:46.043Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC10170340, {\"_\":\"identifier 'PMC10170340' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:07:46.056Z"}
-{"level":"info","message":"Error processing article PMC10170340: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:07:46.056Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC8142468, {\"_\":\"identifier 'PMC8142468' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:07:46.057Z"}
-{"level":"info","message":"Error processing article PMC8142468: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:07:46.057Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC6783717, {\"_\":\"identifier 'PMC6783717' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:07:46.058Z"}
-{"level":"info","message":"Error processing article PMC6783717: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:07:46.058Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/2f/PMC10034822.tar.gz","timestamp":"2025-02-21T11:07:46.064Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f4/9e/PMC9148498.tar.gz","timestamp":"2025-02-21T11:07:46.065Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/6d/51/PMC10331814.tar.gz","timestamp":"2025-02-21T11:07:46.066Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3d/77/PMC11163030.tar.gz","timestamp":"2025-02-21T11:07:46.067Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/52/31/PMC7467484.tar.gz","timestamp":"2025-02-21T11:07:46.068Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/7c/PMC10329300.tar.gz","timestamp":"2025-02-21T11:07:46.070Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/83/PMC9978158.tar.gz","timestamp":"2025-02-21T11:07:46.070Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d4/c1/PMC7213901.tar.gz","timestamp":"2025-02-21T11:07:46.071Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/52/7f/PMC11175405.tar.gz","timestamp":"2025-02-21T11:07:46.072Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0a/4c/PMC10734858.tar.gz","timestamp":"2025-02-21T11:07:46.073Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/14/da/PMC6304353.tar.gz","timestamp":"2025-02-21T11:07:46.075Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c6/96/PMC7569556.tar.gz","timestamp":"2025-02-21T11:07:46.076Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b6/75/PMC7985078.tar.gz","timestamp":"2025-02-21T11:07:46.079Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d5/9e/PMC3643400.tar.gz","timestamp":"2025-02-21T11:07:46.087Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0d/ff/PMC9744780.tar.gz","timestamp":"2025-02-21T11:07:46.088Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3e/5d/PMC8548364.tar.gz","timestamp":"2025-02-21T11:07:46.090Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/44/95/PMC10804569.tar.gz","timestamp":"2025-02-21T11:07:46.091Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f7/53/PMC11438636.tar.gz","timestamp":"2025-02-21T11:07:46.092Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/71/ef/PMC9488849.tar.gz","timestamp":"2025-02-21T11:07:46.102Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b7/ad/PMC10642852.tar.gz","timestamp":"2025-02-21T11:07:46.103Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/fb/53/PMC7041323.tar.gz","timestamp":"2025-02-21T11:07:46.105Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/87/51/PMC11018867.tar.gz","timestamp":"2025-02-21T11:07:46.106Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9e/df/PMC6731623.tar.gz","timestamp":"2025-02-21T11:07:46.107Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/48/f7/PMC5833905.tar.gz","timestamp":"2025-02-21T11:07:46.108Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/45/32/PMC11524648.tar.gz","timestamp":"2025-02-21T11:07:46.110Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d9/29/PMC7859504.tar.gz","timestamp":"2025-02-21T11:07:46.111Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC5452370, {\"_\":\"identifier 'PMC5452370' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:07:46.112Z"}
-{"level":"info","message":"Error processing article PMC5452370: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:07:46.113Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC9584115, {\"_\":\"identifier 'PMC9584115' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:07:46.113Z"}
-{"level":"info","message":"Error processing article PMC9584115: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:07:46.113Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a0/67/PMC4003341.tar.gz","timestamp":"2025-02-21T11:07:46.114Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4f/6d/PMC9775369.tar.gz","timestamp":"2025-02-21T11:07:46.115Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ed/28/PMC4555978.tar.gz","timestamp":"2025-02-21T11:07:46.116Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/27/3e/PMC6458823.tar.gz","timestamp":"2025-02-21T11:07:46.118Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC9487299, {\"_\":\"identifier 'PMC9487299' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:07:46.119Z"}
-{"level":"info","message":"Error processing article PMC9487299: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:07:46.120Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b0/3b/PMC9488647.tar.gz","timestamp":"2025-02-21T11:07:46.120Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10734858/turkjmedsci-51-6-3082.pdf","timestamp":"2025-02-21T11:07:46.919Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7041323/jamp.2018.1507.pdf","timestamp":"2025-02-21T11:07:47.343Z"}
-{"level":"info","message":"Extracting text from PDF: PMC8548364/fmed-08-743977.pdf","timestamp":"2025-02-21T11:07:47.522Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11524648/cureus-0016-00000070497.pdf","timestamp":"2025-02-21T11:07:47.716Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3643400/1465-9921-14-S1-S5.pdf","timestamp":"2025-02-21T11:07:47.776Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7213901/dhps-12-85.pdf","timestamp":"2025-02-21T11:07:47.965Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11438636/WJCC-12-6538.pdf","timestamp":"2025-02-21T11:07:48.110Z"}
-{"level":"info","message":"Extracting text from PDF: PMC5833905/40268_2017_Article_221.pdf","timestamp":"2025-02-21T11:07:48.207Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9488849/ERR-0109-2019.pdf","timestamp":"2025-02-21T11:07:48.368Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9488647/ERR-0074-2018.pdf","timestamp":"2025-02-21T11:07:48.478Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10034822/ATM-18-45.pdf","timestamp":"2025-02-21T11:07:48.704Z"}
-{"level":"info","message":"Extracting text from PDF: PMC4555978/ce-10-089.pdf","timestamp":"2025-02-21T11:07:48.916Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6630358/dddt-13-2295.pdf","timestamp":"2025-02-21T11:07:49.009Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7569556/SVDLD-37-148.pdf","timestamp":"2025-02-21T11:07:49.140Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10329300/13075_2023_Article_3090.pdf","timestamp":"2025-02-21T11:07:49.343Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6458823/12890_2019_Article_841.pdf","timestamp":"2025-02-21T11:07:49.558Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10713318/jtd-15-11-5913-prf.pdf","timestamp":"2025-02-21T11:07:49.645Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7985078/fcell-09-639657.pdf","timestamp":"2025-02-21T11:07:49.800Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9148498/12931_2022_Article_2061.pdf","timestamp":"2025-02-21T11:07:49.970Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10773730/fphar-14-1301923.pdf","timestamp":"2025-02-21T11:07:50.095Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3968083/ppa-8-361.pdf","timestamp":"2025-02-21T11:07:50.240Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9744780/fphar-13-1055702.pdf","timestamp":"2025-02-21T11:07:50.338Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10804569/12967_2024_Article_4884.pdf","timestamp":"2025-02-21T11:07:50.603Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10632947/IID3-11-e1079.pdf","timestamp":"2025-02-21T11:07:50.728Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11163030/fphar-15-1256649.pdf","timestamp":"2025-02-21T11:07:50.823Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9775369/biomedicines-10-03229.pdf","timestamp":"2025-02-21T11:07:50.994Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6731623/12931_2019_Article_1161.pdf","timestamp":"2025-02-21T11:07:51.143Z"}
-{"level":"info","message":"Extracting text from PDF: PMC4003341/12325_2014_Article_112.pdf","timestamp":"2025-02-21T11:07:51.278Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10642852/fmed-10-1242260.pdf","timestamp":"2025-02-21T11:07:51.383Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9978158/ERJ-01794-2022.Shareable.pdf","timestamp":"2025-02-21T11:07:51.411Z"}
-{"level":"info","message":"Extracting text from PDF: PMC5039481/jcm-05-00078.pdf","timestamp":"2025-02-21T11:07:51.672Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7859504/ERJ-02442-2019.Shareable.pdf","timestamp":"2025-02-21T11:07:51.693Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11175405/pone.0305429.pdf","timestamp":"2025-02-21T11:07:51.897Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6992179/pone.0228390.pdf","timestamp":"2025-02-21T11:07:52.098Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7467484/12325_2020_Article_1328.pdf","timestamp":"2025-02-21T11:07:52.186Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7204217/12890_2020_Article_1121.pdf","timestamp":"2025-02-21T11:07:52.334Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9487763/ERR-0115-2014_Maher.pdf","timestamp":"2025-02-21T11:07:52.343Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11351797/rccm.202403-0636OC.pdf","timestamp":"2025-02-21T11:07:52.484Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6304353/fphar-09-01480.pdf","timestamp":"2025-02-21T11:07:52.633Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11018867/41598_2024_Article_59395.pdf","timestamp":"2025-02-21T11:07:52.965Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10331814/main.pdf","timestamp":"2025-02-21T11:07:53.243Z"}
-{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-21T11:07:53.243Z"}
-{"level":"info","message":"Started document Embedding","timestamp":"2025-02-21T11:07:53.244Z"}
-{"level":"error","message":"Error: Processing failed: Connection error.\n    at processDocument (/app/src/services/embedding.service.js:323:11)\n    at async exports.createChat (/app/src/controllers/chat.controller.js:304:34)","timestamp":"2025-02-21T11:09:18.262Z"}
-{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic \"","timestamp":"2025-02-21T11:15:12.858Z"}
-{"level":"info","message":"Found 47 articles.","timestamp":"2025-02-21T11:15:15.090Z"}
-{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Disease mechanisms and drug development.","timestamp":"2025-02-21T11:15:15.090Z"}
-{"level":"info","message":"Fetching article: Pharmacotherapy and adjunctive treatment for idiopathic pulmonary fibrosis (IPF).","timestamp":"2025-02-21T11:15:15.093Z"}
-{"level":"info","message":"Fetching article: Management of Progressive Fibrosing Interstitial Lung Diseases (PF-ILD).","timestamp":"2025-02-21T11:15:15.095Z"}
-{"level":"info","message":"Fetching article: Learnings from clinical trials in patients with connective tissue disease-associated interstitial lung disease.","timestamp":"2025-02-21T11:15:15.097Z"}
-{"level":"info","message":"Fetching article: Safety and tolerability of combination treatment with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis: a systematic review and meta-analysis.","timestamp":"2025-02-21T11:15:15.099Z"}
-{"level":"info","message":"Fetching article: Efficacy and safety of combination therapy with pirfenidone and nintedanib in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.101Z"}
-{"level":"info","message":"Fetching article: Bexotegrast in Patients with Idiopathic Pulmonary Fibrosis: The INTEGRIS-IPF Clinical Trial.","timestamp":"2025-02-21T11:15:15.103Z"}
-{"level":"info","message":"Fetching article: Ziritaxestat, a Novel Autotaxin Inhibitor, and Lung Function in Idiopathic Pulmonary Fibrosis: The ISABELA 1 and 2 Randomized Clinical Trials.","timestamp":"2025-02-21T11:15:15.104Z"}
-{"level":"info","message":"Fetching article: Safety and tolerability of pirfenidone in asbestosis: a prospective multicenter study.","timestamp":"2025-02-21T11:15:15.107Z"}
-{"level":"info","message":"Fetching article: Efficacy and safety of pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.109Z"}
-{"level":"info","message":"Fetching article: Updated Evaluation of the Safety, Efficacy and Tolerability of Pirfenidone in the Treatment of Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:15:15.111Z"}
-{"level":"info","message":"Fetching article: Differences in tolerability of pirfenidone between elderly and younger patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.113Z"}
-{"level":"info","message":"Fetching article: Efficacy, safety, and tolerability of combined pirfenidone and N-acetylcysteine therapy: a systematic review and meta-analysis.","timestamp":"2025-02-21T11:15:15.114Z"}
-{"level":"info","message":"Fetching article: Nintedanib and pirfenidone for idiopathic pulmonary fibrosis in King Abdulaziz Medical City, Riyadh: Real-life data.","timestamp":"2025-02-21T11:15:15.116Z"}
-{"level":"info","message":"Fetching article: Tolerability and efficacy of switching anti-fibrotic treatment from nintedanib to pirfenidone for idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.118Z"}
-{"level":"info","message":"Fetching article: Real World Experiences: Pirfenidone and Nintedanib are Effective and Well Tolerated Treatments for Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:15:15.120Z"}
-{"level":"info","message":"Fetching article: A real-world study of the dosing and tolerability of pirfenidone and its effect on survival in idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.122Z"}
-{"level":"info","message":"Fetching article: South-West of England's Experience of the Safety and Tolerability Pirfenidone and Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis (IPF).","timestamp":"2025-02-21T11:15:15.124Z"}
-{"level":"info","message":"Fetching article: Real-world experiences: Efficacy and tolerability of pirfenidone in clinical practice.","timestamp":"2025-02-21T11:15:15.126Z"}
-{"level":"info","message":"Fetching article: Idiopathic pulmonary fibrosis: Addressing the current and future therapeutic advances along with the role of Sotatercept in the management of pulmonary hypertension.","timestamp":"2025-02-21T11:15:15.128Z"}
-{"level":"info","message":"Fetching article: Long-term clinical and real-world experience with pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.130Z"}
-{"level":"info","message":"Fetching article: The role of pirfenidone in the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.132Z"}
-{"level":"info","message":"Fetching article: Safety and Efficacy of Pirfenidone in Advanced Idiopathic Pulmonary Fibrosis: A Nationwide Post-Marketing Surveillance Study in Korean Patients.","timestamp":"2025-02-21T11:15:15.134Z"}
-{"level":"info","message":"Fetching article: Analysis of the safety and efficacy of different plasma concentrations of pirfenidone in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.137Z"}
-{"level":"info","message":"Fetching article: Comparison of the safety profiles for pirfenidone and nintedanib: a disproportionality analysis of the US food and drug administration adverse event reporting system.","timestamp":"2025-02-21T11:15:15.139Z"}
-{"level":"info","message":"Fetching article: Evaluation of efficacy and safety of pirfenidone 200 mg tablets in patients with idiopathic pulmonary fibrosis in a real-life setting.","timestamp":"2025-02-21T11:15:15.141Z"}
-{"level":"info","message":"Fetching article: GLPG1205 for idiopathic pulmonary fibrosis: a phase 2 randomised placebo-controlled trial.","timestamp":"2025-02-21T11:15:15.143Z"}
-{"level":"info","message":"Fetching article: Real world experience on the effectiveness and safety of pirfenidone in patients with idiopathic pulmonary fibrosis in Taiwan.","timestamp":"2025-02-21T11:15:15.145Z"}
-{"level":"info","message":"Fetching article: Inhibitor of PD-1/PD-L1: a new approach may be beneficial for the treatment of idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.148Z"}
-{"level":"info","message":"Fetching article: Drug therapies for treatment of idiopathic pulmonary fibrosis: a systematic review, Bayesian network meta-analysis, and cost-effectiveness analysis.","timestamp":"2025-02-21T11:15:15.150Z"}
-{"level":"info","message":"Fetching article: Therapeutic Applications of Mesenchymal Stem Cells in Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:15:15.152Z"}
-{"level":"info","message":"Fetching article: A Randomized, Double-Blinded, Placebo-Controlled, Dose-Escalation Phase 1 Study of Aerosolized Pirfenidone Delivered via the PARI Investigational eFlow Nebulizer in Volunteers and Patients with Idiopathic Pulmonary Fibrosis.","timestamp":"2025-02-21T11:15:15.154Z"}
-{"level":"info","message":"Fetching article: Antacid Therapy and Disease Progression in Patients with Idiopathic Pulmonary Fibrosis Who Received Pirfenidone.","timestamp":"2025-02-21T11:15:15.156Z"}
-{"level":"info","message":"Fetching article: Pharmacological management of progressive-fibrosing interstitial lung diseases: a review of the current evidence.","timestamp":"2025-02-21T11:15:15.158Z"}
-{"level":"info","message":"Fetching article: Efficacy and Safety of Nintedanib for the Treatment of Idiopathic Pulmonary Fibrosis: An Update.","timestamp":"2025-02-21T11:15:15.160Z"}
-{"level":"info","message":"Fetching article: Changing the idiopathic pulmonary fibrosis treatment approach and improving patient outcomes.","timestamp":"2025-02-21T11:15:15.162Z"}
-{"level":"info","message":"Fetching article: Pirfenidone in idiopathic pulmonary fibrosis: expert panel discussion on the management of drug-related adverse events.","timestamp":"2025-02-21T11:15:15.164Z"}
-{"level":"info","message":"Fetching article: Treatment of progressive fibrosing interstitial lung diseases: a milestone in the management of interstitial lung diseases.","timestamp":"2025-02-21T11:15:15.166Z"}
-{"level":"info","message":"Fetching article: Antifibrotic therapy for idiopathic pulmonary fibrosis: time to treat.","timestamp":"2025-02-21T11:15:15.167Z"}
-{"level":"info","message":"Fetching article: Phase 2 trial to assess lebrikizumab in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.169Z"}
-{"level":"info","message":"Fetching article: Nintedanib: evidence for its therapeutic potential in idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.171Z"}
-{"level":"info","message":"Fetching article: Emerging potential treatments: new hope for idiopathic pulmonary fibrosis patients?","timestamp":"2025-02-21T11:15:15.173Z"}
-{"level":"info","message":"Fetching article: Long-Term Safety of Antifibrotic Drugs in IPF: A Real-World Experience.","timestamp":"2025-02-21T11:15:15.175Z"}
-{"level":"info","message":"Fetching article: Negative impact of anorexia and weight loss during prior pirfenidone administration on subsequent nintedanib treatment in patients with idiopathic pulmonary fibrosis.","timestamp":"2025-02-21T11:15:15.177Z"}
-{"level":"info","message":"Fetching article: Pirfenidone as a Cornerstone in the Management of Fibrotic Interstitial Lung Diseases and Its Emerging Applications: A Comprehensive Review.","timestamp":"2025-02-21T11:15:15.179Z"}
-{"level":"info","message":"Fetching article: Timing impact on the initiation of pirfenidone therapy on idiopathic pulmonary fibrosis disease progression.","timestamp":"2025-02-21T11:15:15.181Z"}
-{"level":"info","message":"Fetching article: Combination of losartan with pirfenidone: a protective anti-fibrotic against pulmonary fibrosis induced by bleomycin in rats.","timestamp":"2025-02-21T11:15:15.182Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC8142468, {\"_\":\"identifier 'PMC8142468' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:15.708Z"}
-{"level":"info","message":"Error processing article PMC8142468: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:15.708Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC6783717, {\"_\":\"identifier 'PMC6783717' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:15.709Z"}
-{"level":"info","message":"Error processing article PMC6783717: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:15.709Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/7c/PMC10329300.tar.gz","timestamp":"2025-02-21T11:15:15.710Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/14/da/PMC6304353.tar.gz","timestamp":"2025-02-21T11:15:15.712Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/83/PMC9978158.tar.gz","timestamp":"2025-02-21T11:15:15.714Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3d/77/PMC11163030.tar.gz","timestamp":"2025-02-21T11:15:15.715Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3e/5d/PMC8548364.tar.gz","timestamp":"2025-02-21T11:15:15.717Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2f/2e/PMC10713318.tar.gz","timestamp":"2025-02-21T11:15:15.718Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/81/PMC11351797.tar.gz","timestamp":"2025-02-21T11:15:15.719Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f4/9e/PMC9148498.tar.gz","timestamp":"2025-02-21T11:15:15.720Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/52/7f/PMC11175405.tar.gz","timestamp":"2025-02-21T11:15:15.721Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/26/9a/PMC3968083.tar.gz","timestamp":"2025-02-21T11:15:15.723Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/49/d4/PMC7204217.tar.gz","timestamp":"2025-02-21T11:15:15.724Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d4/c1/PMC7213901.tar.gz","timestamp":"2025-02-21T11:15:15.725Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a9/2e/PMC5039481.tar.gz","timestamp":"2025-02-21T11:15:15.726Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/58/2f/PMC10034822.tar.gz","timestamp":"2025-02-21T11:15:15.727Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/76/36/PMC6992179.tar.gz","timestamp":"2025-02-21T11:15:15.728Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c6/96/PMC7569556.tar.gz","timestamp":"2025-02-21T11:15:15.730Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/da/ae/PMC10632947.tar.gz","timestamp":"2025-02-21T11:15:15.731Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0d/ff/PMC9744780.tar.gz","timestamp":"2025-02-21T11:15:15.732Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/01/c3/PMC9487763.tar.gz","timestamp":"2025-02-21T11:15:15.733Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d5/9e/PMC3643400.tar.gz","timestamp":"2025-02-21T11:15:15.734Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/52/31/PMC7467484.tar.gz","timestamp":"2025-02-21T11:15:15.736Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/33/8d/PMC10773730.tar.gz","timestamp":"2025-02-21T11:15:15.742Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC10170340, {\"_\":\"identifier 'PMC10170340' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:15.743Z"}
-{"level":"info","message":"Error processing article PMC10170340: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:15.743Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/3d/14/PMC6630358.tar.gz","timestamp":"2025-02-21T11:15:15.744Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b7/ad/PMC10642852.tar.gz","timestamp":"2025-02-21T11:15:15.745Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b6/75/PMC7985078.tar.gz","timestamp":"2025-02-21T11:15:15.746Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0a/4c/PMC10734858.tar.gz","timestamp":"2025-02-21T11:15:15.754Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/44/95/PMC10804569.tar.gz","timestamp":"2025-02-21T11:15:15.755Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/6d/51/PMC10331814.tar.gz","timestamp":"2025-02-21T11:15:15.756Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b0/3b/PMC9488647.tar.gz","timestamp":"2025-02-21T11:15:15.758Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/48/f7/PMC5833905.tar.gz","timestamp":"2025-02-21T11:15:15.759Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC5452370, {\"_\":\"identifier 'PMC5452370' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:15.763Z"}
-{"level":"info","message":"Error processing article PMC5452370: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:15.763Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/a0/67/PMC4003341.tar.gz","timestamp":"2025-02-21T11:15:15.764Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9e/df/PMC6731623.tar.gz","timestamp":"2025-02-21T11:15:15.765Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/fb/53/PMC7041323.tar.gz","timestamp":"2025-02-21T11:15:15.766Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/71/ef/PMC9488849.tar.gz","timestamp":"2025-02-21T11:15:15.768Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d9/29/PMC7859504.tar.gz","timestamp":"2025-02-21T11:15:15.769Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ed/28/PMC4555978.tar.gz","timestamp":"2025-02-21T11:15:15.770Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC9487299, {\"_\":\"identifier 'PMC9487299' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:15.772Z"}
-{"level":"info","message":"Error processing article PMC9487299: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:15.773Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4f/6d/PMC9775369.tar.gz","timestamp":"2025-02-21T11:15:15.774Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC9584115, {\"_\":\"identifier 'PMC9584115' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:15.774Z"}
-{"level":"info","message":"Error processing article PMC9584115: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:15.775Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/45/32/PMC11524648.tar.gz","timestamp":"2025-02-21T11:15:15.775Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/27/3e/PMC6458823.tar.gz","timestamp":"2025-02-21T11:15:15.777Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/f7/53/PMC11438636.tar.gz","timestamp":"2025-02-21T11:15:15.778Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/87/51/PMC11018867.tar.gz","timestamp":"2025-02-21T11:15:15.810Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7041323/jamp.2018.1507.pdf","timestamp":"2025-02-21T11:15:17.070Z"}
-{"level":"info","message":"Extracting text from PDF: PMC8548364/fmed-08-743977.pdf","timestamp":"2025-02-21T11:15:17.373Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11524648/cureus-0016-00000070497.pdf","timestamp":"2025-02-21T11:15:17.699Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3643400/1465-9921-14-S1-S5.pdf","timestamp":"2025-02-21T11:15:17.889Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10734858/turkjmedsci-51-6-3082.pdf","timestamp":"2025-02-21T11:15:17.964Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7213901/dhps-12-85.pdf","timestamp":"2025-02-21T11:15:18.114Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11438636/WJCC-12-6538.pdf","timestamp":"2025-02-21T11:15:18.279Z"}
-{"level":"info","message":"Extracting text from PDF: PMC5833905/40268_2017_Article_221.pdf","timestamp":"2025-02-21T11:15:18.511Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9488849/ERR-0109-2019.pdf","timestamp":"2025-02-21T11:15:18.603Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9488647/ERR-0074-2018.pdf","timestamp":"2025-02-21T11:15:18.711Z"}
-{"level":"info","message":"Extracting text from PDF: PMC4555978/ce-10-089.pdf","timestamp":"2025-02-21T11:15:18.948Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10034822/ATM-18-45.pdf","timestamp":"2025-02-21T11:15:19.169Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6630358/dddt-13-2295.pdf","timestamp":"2025-02-21T11:15:19.360Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7569556/SVDLD-37-148.pdf","timestamp":"2025-02-21T11:15:19.473Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10329300/13075_2023_Article_3090.pdf","timestamp":"2025-02-21T11:15:19.675Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6458823/12890_2019_Article_841.pdf","timestamp":"2025-02-21T11:15:19.835Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10713318/jtd-15-11-5913-prf.pdf","timestamp":"2025-02-21T11:15:19.942Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7985078/fcell-09-639657.pdf","timestamp":"2025-02-21T11:15:20.105Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9148498/12931_2022_Article_2061.pdf","timestamp":"2025-02-21T11:15:20.261Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10773730/fphar-14-1301923.pdf","timestamp":"2025-02-21T11:15:20.352Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3968083/ppa-8-361.pdf","timestamp":"2025-02-21T11:15:20.535Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9744780/fphar-13-1055702.pdf","timestamp":"2025-02-21T11:15:20.645Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10804569/12967_2024_Article_4884.pdf","timestamp":"2025-02-21T11:15:20.877Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10632947/IID3-11-e1079.pdf","timestamp":"2025-02-21T11:15:21.051Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6731623/12931_2019_Article_1161.pdf","timestamp":"2025-02-21T11:15:21.193Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11163030/fphar-15-1256649.pdf","timestamp":"2025-02-21T11:15:21.293Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9775369/biomedicines-10-03229.pdf","timestamp":"2025-02-21T11:15:21.419Z"}
-{"level":"info","message":"Extracting text from PDF: PMC4003341/12325_2014_Article_112.pdf","timestamp":"2025-02-21T11:15:21.619Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10642852/fmed-10-1242260.pdf","timestamp":"2025-02-21T11:15:21.746Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9978158/ERJ-01794-2022.Shareable.pdf","timestamp":"2025-02-21T11:15:21.771Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7859504/ERJ-02442-2019.Shareable.pdf","timestamp":"2025-02-21T11:15:21.797Z"}
-{"level":"info","message":"Extracting text from PDF: PMC5039481/jcm-05-00078.pdf","timestamp":"2025-02-21T11:15:22.044Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6992179/pone.0228390.pdf","timestamp":"2025-02-21T11:15:22.321Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7467484/12325_2020_Article_1328.pdf","timestamp":"2025-02-21T11:15:22.405Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11175405/pone.0305429.pdf","timestamp":"2025-02-21T11:15:22.617Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7204217/12890_2020_Article_1121.pdf","timestamp":"2025-02-21T11:15:22.756Z"}
-{"level":"info","message":"Extracting text from PDF: PMC9487763/ERR-0115-2014_Maher.pdf","timestamp":"2025-02-21T11:15:22.765Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11351797/rccm.202403-0636OC.pdf","timestamp":"2025-02-21T11:15:22.907Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6304353/fphar-09-01480.pdf","timestamp":"2025-02-21T11:15:23.001Z"}
-{"level":"info","message":"Extracting text from PDF: PMC10331814/main.pdf","timestamp":"2025-02-21T11:15:23.316Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11018867/41598_2024_Article_59395.pdf","timestamp":"2025-02-21T11:15:27.670Z"}
-{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-21T11:15:27.670Z"}
-{"level":"info","message":"Started document Embedding","timestamp":"2025-02-21T11:15:27.671Z"}
-{"level":"info","message":"Searching PubMed for: \"test \"","timestamp":"2025-02-21T11:15:43.716Z"}
-{"level":"info","message":"Found 23 articles.","timestamp":"2025-02-21T11:15:45.432Z"}
-{"level":"info","message":"Fetching article: Guidelines for Designing and Evaluating Feasibility Pilot Studies.","timestamp":"2025-02-21T11:15:45.433Z"}
-{"level":"info","message":"Fetching article: Open exploration.","timestamp":"2025-02-21T11:15:45.436Z"}
-{"level":"info","message":"Fetching article: High Impact.","timestamp":"2025-02-21T11:15:45.438Z"}
-{"level":"info","message":"Fetching article: Bayesian Analysis Reporting Guidelines.","timestamp":"2025-02-21T11:15:45.440Z"}
-{"level":"info","message":"Fetching article: Tips for troublesome sample-size calculation.","timestamp":"2025-02-21T11:15:45.442Z"}
-{"level":"info","message":"Fetching article: Recognising Bias in Studies of Diagnostic Tests Part 1: Patient Selection.","timestamp":"2025-02-21T11:15:45.444Z"}
-{"level":"info","message":"Fetching article: Making research matter.","timestamp":"2025-02-21T11:15:45.446Z"}
-{"level":"info","message":"Fetching article: Evaluation of Published Preclinical Experimental Studies in Medicine: Methodology Issues.","timestamp":"2025-02-21T11:15:45.447Z"}
-{"level":"info","message":"Fetching article: Recognising bias in studies of diagnostic tests part 2: interpreting and verifying the index test.","timestamp":"2025-02-21T11:15:45.449Z"}
-{"level":"info","message":"Fetching article: Risk of selection bias in randomized trials: further insight.","timestamp":"2025-02-21T11:15:45.451Z"}
-{"level":"info","message":"Fetching article: Adaptive multiarm multistage clinical trials.","timestamp":"2025-02-21T11:15:45.453Z"}
-{"level":"info","message":"Fetching article: Why is a small sample size not enough?","timestamp":"2025-02-21T11:15:45.455Z"}
-{"level":"info","message":"Fetching article: Metastudies for robust tests of theory.","timestamp":"2025-02-21T11:15:45.457Z"}
-{"level":"info","message":"Fetching article: Barriers to the conduct and application of research in complementary and alternative medicine: a systematic review.","timestamp":"2025-02-21T11:15:45.459Z"}
-{"level":"info","message":"Fetching article: Presenting data: can you follow a recipe?","timestamp":"2025-02-21T11:15:45.460Z"}
-{"level":"info","message":"Fetching article: Design, data monitoring, and analysis of clinical trials with co-primary endpoints: A review.","timestamp":"2025-02-21T11:15:45.462Z"}
-{"level":"info","message":"Fetching article: Principles underlying the use of multiple informants' reports.","timestamp":"2025-02-21T11:15:45.464Z"}
-{"level":"info","message":"Fetching article: Integrative data analysis in clinical psychology research.","timestamp":"2025-02-21T11:15:45.466Z"}
-{"level":"info","message":"Fetching article: Uptake of newer methodological developments and the deployment of meta-analysis in diagnostic test research: a systematic review.","timestamp":"2025-02-21T11:15:45.468Z"}
-{"level":"info","message":"Fetching article: Meta-analysis of diagnostic accuracy studies in mental health.","timestamp":"2025-02-21T11:15:45.470Z"}
-{"level":"info","message":"Fetching article: The fragility index can be used for sample size calculations in clinical trials.","timestamp":"2025-02-21T11:15:45.472Z"}
-{"level":"info","message":"Fetching article: [object Object]","timestamp":"2025-02-21T11:15:45.475Z"}
-{"level":"info","message":"Fetching article: Reporting of analyses from randomized controlled trials with multiple arms: a systematic review.","timestamp":"2025-02-21T11:15:45.477Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9c/4c/PMC6964967.tar.gz","timestamp":"2025-02-21T11:15:45.747Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC6715477, {\"_\":\"identifier 'PMC6715477' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.758Z"}
-{"level":"info","message":"Error processing article PMC6715477: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.759Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8d/f0/PMC8526359.tar.gz","timestamp":"2025-02-21T11:15:45.765Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC4001156, {\"_\":\"identifier 'PMC4001156' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.767Z"}
-{"level":"info","message":"Error processing article PMC4001156: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.767Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/5f/16/PMC7113158.tar.gz","timestamp":"2025-02-21T11:15:45.768Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7c/02/PMC11379640.tar.gz","timestamp":"2025-02-21T11:15:45.781Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1e/e7/PMC5364631.tar.gz","timestamp":"2025-02-21T11:15:45.782Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/fd/7e/PMC5055691.tar.gz","timestamp":"2025-02-21T11:15:45.810Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/15/2d/PMC7065228.tar.gz","timestamp":"2025-02-21T11:15:45.812Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC6693499, {\"_\":\"identifier 'PMC6693499' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.820Z"}
-{"level":"info","message":"Error processing article PMC6693499: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.820Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC3312475, {\"_\":\"identifier 'PMC3312475' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.820Z"}
-{"level":"info","message":"Error processing article PMC3312475: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.821Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC6135538, {\"_\":\"identifier 'PMC6135538' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.821Z"}
-{"level":"info","message":"Error processing article PMC6135538: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.822Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/80/3b/PMC3065444.tar.gz","timestamp":"2025-02-21T11:15:45.822Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC5856505, {\"_\":\"identifier 'PMC5856505' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.823Z"}
-{"level":"info","message":"Error processing article PMC5856505: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.824Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC8665025, {\"_\":\"identifier 'PMC8665025' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.825Z"}
-{"level":"info","message":"Error processing article PMC8665025: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.825Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC3924786, {\"_\":\"identifier 'PMC3924786' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.825Z"}
-{"level":"info","message":"Error processing article PMC3924786: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.826Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4d/9f/PMC11049675.tar.gz","timestamp":"2025-02-21T11:15:45.826Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC4103654, {\"_\":\"identifier 'PMC4103654' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.827Z"}
-{"level":"info","message":"Error processing article PMC4103654: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.827Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/af/15/PMC3621416.tar.gz","timestamp":"2025-02-21T11:15:45.828Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC6738935, {\"_\":\"identifier 'PMC6738935' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.829Z"}
-{"level":"info","message":"Error processing article PMC6738935: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.829Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b0/c0/PMC6885208.tar.gz","timestamp":"2025-02-21T11:15:45.830Z"}
-{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9f/14/PMC4680179.tar.gz","timestamp":"2025-02-21T11:15:45.831Z"}
-{"level":"info","message":"No Open Access PDF found for: PMC8849521, {\"_\":\"identifier 'PMC8849521' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T11:15:45.833Z"}
-{"level":"info","message":"Error processing article PMC8849521: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T11:15:45.833Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6964967/elife-52157.pdf","timestamp":"2025-02-21T11:15:46.610Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7113158/kja-19497.pdf","timestamp":"2025-02-21T11:15:46.717Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11049675/pme-13-1-1324.pdf","timestamp":"2025-02-21T11:15:46.813Z"}
-{"level":"info","message":"Extracting text from PDF: PMC5055691/13063_2016_Article_1597.pdf","timestamp":"2025-02-21T11:15:46.952Z"}
-{"level":"info","message":"Extracting text from PDF: PMC6885208/medarch-73-298.pdf","timestamp":"2025-02-21T11:15:47.408Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3621416/1741-7015-11-84-S2.pdf","timestamp":"2025-02-21T11:15:47.757Z"}
-{"level":"info","message":"Extracting text from PDF: PMC5364631/12906_2017_Article_1660.pdf","timestamp":"2025-02-21T11:15:47.953Z"}
-{"level":"info","message":"Extracting text from PDF: PMC3065444/1471-2288-11-27.pdf","timestamp":"2025-02-21T11:15:48.045Z"}
-{"level":"info","message":"Extracting text from PDF: PMC4680179/ebmental-18-103.pdf","timestamp":"2025-02-21T11:15:48.173Z"}
-{"level":"info","message":"Extracting text from PDF: PMC11379640/oyae162.pdf","timestamp":"2025-02-21T11:15:48.593Z"}
-{"level":"info","message":"Extracting text from PDF: PMC7065228/SIM-39-1084.pdf","timestamp":"2025-02-21T11:15:50.557Z"}
-{"level":"info","message":"Extracting text from PDF: PMC8526359/41562_2021_Article_1177.pdf","timestamp":"2025-02-21T11:15:51.175Z"}
-{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-21T11:15:51.176Z"}
-{"level":"info","message":"Started document Embedding","timestamp":"2025-02-21T11:15:51.176Z"}
-{"level":"error","message":"Error: Processing failed: Connection error.\n    at processDocument (/app/src/services/embedding.service.js:323:11)\n    at async exports.createChat (/app/src/controllers/chat.controller.js:304:34)","timestamp":"2025-02-21T11:16:47.894Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-21T12:08:28.286Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-02-21T12:12:31.219Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-02-21T12:13:07.802Z"}
+{"level":"info","message":"Searching PubMed for: \"test in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T13:20:13.962Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T13:20:14.681Z"}
+{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T13:27:51.857Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T13:27:52.423Z"}
+{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T13:28:02.564Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T13:28:03.254Z"}
+{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T13:28:20.848Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T13:28:21.589Z"}
+{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T13:28:33.228Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T13:28:33.793Z"}
+{"level":"info","message":"Searching PubMed for: \"pirfenidone tolerability idiopathic in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T13:28:44.271Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T13:28:45.064Z"}
+{"level":"info","message":"Searching PubMed for: \" efficacy and tolerability in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T13:31:43.231Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T13:31:43.723Z"}
+{"level":"info","message":"Searching PubMed for: \"test in \"","timestamp":"2025-02-21T15:50:26.413Z"}
+{"level":"info","message":"Found 22 articles.","timestamp":"2025-02-21T15:50:28.571Z"}
+{"level":"info","message":"Fetching article: Guidelines for Designing and Evaluating Feasibility Pilot Studies.","timestamp":"2025-02-21T15:50:28.572Z"}
+{"level":"info","message":"Fetching article: Recognising bias in studies of diagnostic tests part 2: interpreting and verifying the index test.","timestamp":"2025-02-21T15:50:28.574Z"}
+{"level":"info","message":"Fetching article: Open exploration.","timestamp":"2025-02-21T15:50:28.577Z"}
+{"level":"info","message":"Fetching article: Tips for troublesome sample-size calculation.","timestamp":"2025-02-21T15:50:28.578Z"}
+{"level":"info","message":"Fetching article: High Impact.","timestamp":"2025-02-21T15:50:28.580Z"}
+{"level":"info","message":"Fetching article: Barriers to the conduct and application of research in complementary and alternative medicine: a systematic review.","timestamp":"2025-02-21T15:50:28.582Z"}
+{"level":"info","message":"Fetching article: Bayesian Analysis Reporting Guidelines.","timestamp":"2025-02-21T15:50:28.584Z"}
+{"level":"info","message":"Fetching article: Recognising Bias in Studies of Diagnostic Tests Part 1: Patient Selection.","timestamp":"2025-02-21T15:50:28.585Z"}
+{"level":"info","message":"Fetching article: Risk of selection bias in randomized trials: further insight.","timestamp":"2025-02-21T15:50:28.587Z"}
+{"level":"info","message":"Fetching article: Evaluation of Published Preclinical Experimental Studies in Medicine: Methodology Issues.","timestamp":"2025-02-21T15:50:28.589Z"}
+{"level":"info","message":"Fetching article: Uptake of newer methodological developments and the deployment of meta-analysis in diagnostic test research: a systematic review.","timestamp":"2025-02-21T15:50:28.593Z"}
+{"level":"info","message":"Fetching article: Making research matter.","timestamp":"2025-02-21T15:50:28.595Z"}
+{"level":"info","message":"Fetching article: Adaptive multiarm multistage clinical trials.","timestamp":"2025-02-21T15:50:28.598Z"}
+{"level":"info","message":"Fetching article: Why is a small sample size not enough?","timestamp":"2025-02-21T15:50:28.600Z"}
+{"level":"info","message":"Fetching article: The Importance of the Human Mass Balance Study in Regulatory Submissions.","timestamp":"2025-02-21T15:50:28.602Z"}
+{"level":"info","message":"Fetching article: Reporting of analyses from randomized controlled trials with multiple arms: a systematic review.","timestamp":"2025-02-21T15:50:28.604Z"}
+{"level":"info","message":"Fetching article: Metastudies for robust tests of theory.","timestamp":"2025-02-21T15:50:28.606Z"}
+{"level":"info","message":"Fetching article: Principles underlying the use of multiple informants' reports.","timestamp":"2025-02-21T15:50:28.608Z"}
+{"level":"info","message":"Fetching article: Power of a randomization test in a single case multiple baseline AB design.","timestamp":"2025-02-21T15:50:28.609Z"}
+{"level":"info","message":"Fetching article: Integrative data analysis in clinical psychology research.","timestamp":"2025-02-21T15:50:28.611Z"}
+{"level":"info","message":"Fetching article: Using Multiverse Analysis to Highlight Differences in Convergent Correlation Outcomes Due to Data Analytical and Study Design Choices.","timestamp":"2025-02-21T15:50:28.612Z"}
+{"level":"info","message":"Fetching article: Meta-analysis of diagnostic accuracy studies in mental health.","timestamp":"2025-02-21T15:50:28.614Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/5f/16/PMC7113158.tar.gz","timestamp":"2025-02-21T15:50:28.999Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9c/4c/PMC6964967.tar.gz","timestamp":"2025-02-21T15:50:29.001Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC6693499, {\"_\":\"identifier 'PMC6693499' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T15:50:29.004Z"}
+{"level":"info","message":"Error processing article PMC6693499: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T15:50:29.004Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC8849521, {\"_\":\"identifier 'PMC8849521' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T15:50:29.007Z"}
+{"level":"info","message":"Error processing article PMC8849521: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T15:50:29.007Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/8d/f0/PMC8526359.tar.gz","timestamp":"2025-02-21T15:50:29.009Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC6715477, {\"_\":\"identifier 'PMC6715477' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T15:50:29.013Z"}
+{"level":"info","message":"Error processing article PMC6715477: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T15:50:29.013Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC6738935, {\"_\":\"identifier 'PMC6738935' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T15:50:29.017Z"}
+{"level":"info","message":"Error processing article PMC6738935: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T15:50:29.017Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/15/2d/PMC7065228.tar.gz","timestamp":"2025-02-21T15:50:29.023Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC5856505, {\"_\":\"identifier 'PMC5856505' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T15:50:29.026Z"}
+{"level":"info","message":"Error processing article PMC5856505: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T15:50:29.026Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/64/2d/PMC7004358.tar.gz","timestamp":"2025-02-21T15:50:29.030Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1e/e7/PMC5364631.tar.gz","timestamp":"2025-02-21T15:50:29.034Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7c/02/PMC11379640.tar.gz","timestamp":"2025-02-21T15:50:29.037Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/af/15/PMC3621416.tar.gz","timestamp":"2025-02-21T15:50:29.040Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/80/3b/PMC3065444.tar.gz","timestamp":"2025-02-21T15:50:29.043Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/59/a2/PMC6916658.tar.gz","timestamp":"2025-02-21T15:50:29.047Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC3924786, {\"_\":\"identifier 'PMC3924786' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T15:50:29.049Z"}
+{"level":"info","message":"Error processing article PMC3924786: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T15:50:29.049Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/9f/14/PMC4680179.tar.gz","timestamp":"2025-02-21T15:50:29.052Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/64/33/PMC10363922.tar.gz","timestamp":"2025-02-21T15:50:29.060Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b0/c0/PMC6885208.tar.gz","timestamp":"2025-02-21T15:50:29.064Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC4001156, {\"_\":\"identifier 'PMC4001156' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T15:50:29.066Z"}
+{"level":"info","message":"Error processing article PMC4001156: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T15:50:29.067Z"}
+{"level":"info","message":"Downloading TGZ: http://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/fd/7e/PMC5055691.tar.gz","timestamp":"2025-02-21T15:50:29.069Z"}
+{"level":"info","message":"No Open Access PDF found for: PMC4103654, {\"_\":\"identifier 'PMC4103654' is not Open Access\",\"$\":{\"code\":\"idIsNotOpenAccess\"}}","timestamp":"2025-02-21T15:50:29.071Z"}
+{"level":"info","message":"Error processing article PMC4103654: TypeError: Cannot read properties of undefined (reading '0')","timestamp":"2025-02-21T15:50:29.071Z"}
+{"level":"info","message":"Extracting text from PDF: PMC6964967/elife-52157.pdf","timestamp":"2025-02-21T15:50:30.248Z"}
+{"level":"info","message":"Extracting text from PDF: PMC7113158/kja-19497.pdf","timestamp":"2025-02-21T15:50:30.599Z"}
+{"level":"info","message":"Extracting text from PDF: PMC5055691/13063_2016_Article_1597.pdf","timestamp":"2025-02-21T15:50:30.821Z"}
+{"level":"info","message":"Extracting text from PDF: PMC6885208/medarch-73-298.pdf","timestamp":"2025-02-21T15:50:30.959Z"}
+{"level":"info","message":"Extracting text from PDF: PMC6916658/PSP4-8-792.pdf","timestamp":"2025-02-21T15:50:31.157Z"}
+{"level":"info","message":"Extracting text from PDF: PMC3621416/1741-7015-11-84-S2.pdf","timestamp":"2025-02-21T15:50:31.415Z"}
+{"level":"info","message":"Extracting text from PDF: PMC4680179/ebmental-18-103.pdf","timestamp":"2025-02-21T15:50:31.623Z"}
+{"level":"info","message":"Extracting text from PDF: PMC11379640/oyae162.pdf","timestamp":"2025-02-21T15:50:31.674Z"}
+{"level":"info","message":"Extracting text from PDF: PMC5364631/12906_2017_Article_1660.pdf","timestamp":"2025-02-21T15:50:31.881Z"}
+{"level":"info","message":"Extracting text from PDF: PMC10363922/10.1177_10731911221127904.pdf","timestamp":"2025-02-21T15:50:32.064Z"}
+{"level":"info","message":"Extracting text from PDF: PMC3065444/1471-2288-11-27.pdf","timestamp":"2025-02-21T15:50:32.169Z"}
+{"level":"info","message":"Extracting text from PDF: PMC8526359/41562_2021_Article_1177.pdf","timestamp":"2025-02-21T15:50:32.623Z"}
+{"level":"info","message":"Extracting text from PDF: PMC7065228/SIM-39-1084.pdf","timestamp":"2025-02-21T15:50:32.853Z"}
+{"level":"info","message":"Extracting text from PDF: PMC7004358/pone.0228355.pdf","timestamp":"2025-02-21T15:50:33.174Z"}
+{"level":"info","message":"Done fetching and processing PubMed data. Total PDFs processed: 0","timestamp":"2025-02-21T15:50:33.174Z"}
+{"level":"info","message":"Started document Embedding","timestamp":"2025-02-21T15:50:33.175Z"}
+{"level":"info","message":"Created chat Successfully","timestamp":"2025-02-21T15:50:41.541Z"}
+{"level":"info","message":"Searching PubMed for: \"azel in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T15:58:43.106Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T15:58:43.756Z"}
+{"level":"info","message":"Searching PubMed for: \"azel in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T15:59:59.006Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T15:59:59.838Z"}
+{"level":"info","message":"Searching PubMed for: \"paracetamol in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T17:01:50.304Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T17:01:50.908Z"}
+{"level":"info","message":"Searching PubMed for: \"aler in Germany,France,Spain,Italy,United Kingdom\"","timestamp":"2025-02-21T17:05:19.913Z"}
+{"level":"info","message":"No articles found.","timestamp":"2025-02-21T17:05:20.431Z"}
